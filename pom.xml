@@ -1,0 +1,111 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>FileCertSigner</groupId>
+	<artifactId>FileCertSigner</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>FileCertSigner</name>
+	<description>FileCertSigner</description>
+
+	<properties>
+		<!--suppress UnresolvedMavenProperty -->
+		<artifactory.base.url>https://${scm.host}/artifactory</artifactory.base.url>
+		
+	</properties>
+
+	<dependencies>
+		<dependency>
+			<groupId>log4j</groupId>
+			<artifactId>log4j</artifactId>
+			<version>1.2.17</version>
+		</dependency>
+	</dependencies>
+	<build>
+		<finalName>FileCertSigner</finalName>
+		<plugins>
+		</plugins>
+	</build>
+	<profiles>
+		<profile>
+			<id>repo-local</id>
+			<activation>
+				<file>
+					<exists>${user.home}/maven.repo.local</exists>
+				</file>
+			</activation>
+			<repositories>
+				<repository>
+					<snapshots>
+						<enabled>false</enabled>
+					</snapshots>
+					<id>central</id>
+					<name>libs-release</name>
+					<url>http://localhost:8081/artifactory/libs-release</url>
+				</repository>
+				<repository>
+					<snapshots />
+					<id>snapshots</id>
+					<name>libs-snapshot</name>
+					<url>http://localhost:8081/artifactory/libs-snapshot</url>
+				</repository>
+			</repositories>
+			<pluginRepositories>
+				<pluginRepository>
+					<snapshots>
+						<enabled>false</enabled>
+					</snapshots>
+					<id>central</id>
+					<name>plugins-release</name>
+					<url>http://localhost:8081/artifactory/plugins-release</url>
+				</pluginRepository>
+				<pluginRepository>
+					<snapshots />
+					<id>snapshots</id>
+					<name>plugins-snapshot</name>
+					<url>http://localhost:8081/artifactory/plugins-snapshot</url>
+				</pluginRepository>
+			</pluginRepositories>
+		</profile>
+		<profile>
+			<id>repo-usb</id>
+			<activation>
+				<file>
+					<missing>${user.home}/maven.repo.local</missing>
+				</file>
+			</activation>
+			<repositories>
+				<repository>
+					<snapshots>
+						<enabled>false</enabled>
+					</snapshots>
+					<id>central</id>
+					<name>libs-release</name>
+					<url>${artifactory.base.url}/libs-release</url>
+				</repository>
+				<repository>
+					<snapshots />
+					<id>snapshots</id>
+					<name>libs-snapshot</name>
+					<url>${artifactory.base.url}/libs-snapshot</url>
+				</repository>
+			</repositories>
+			<pluginRepositories>
+				<pluginRepository>
+					<snapshots>
+						<enabled>false</enabled>
+					</snapshots>
+					<id>central</id>
+					<name>plugins-release</name>
+					<url>${artifactory.base.url}/plugins-release</url>
+				</pluginRepository>
+				<pluginRepository>
+					<snapshots />
+					<id>snapshots</id>
+					<name>plugins-snapshot</name>
+					<url>${artifactory.base.url}/plugins-snapshot</url>
+				</pluginRepository>
+			</pluginRepositories>
+		</profile>
+	</profiles>
+</project>
