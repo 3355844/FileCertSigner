@@ -1,0 +1,11 @@
+https://mkyong.com/java/java-digital-signatures-example/
+https://www.geeksforgeeks.org/java-signature-sign-method-with-examples/
+https://www.geeksforgeeks.org/java-signature-getalgorithm-method-with-examples/?ref=rp
+https://docstore.mik.ua/orelly/java-ent/security/ch12_01.htm
+https://kodejava.org/how-to-create-a-digital-signature-and-sign-data/
+https://kodejava.org/how-to-verify-digital-signature-of-a-signed-data/
+https://www.baeldung.com/java-digital-signature
+https://www.pixelstech.net/article/1420427307-Different-types-of-keystore-in-Java----PKCS12
+https://www.baeldung.com/java-digital-signature
+https://gist.github.com/vivekkr12/c74f7ee08593a8c606ed96f4b62a208a
+https://www.pixelstech.net/article/1406726666-Generate-certificate-in-Java----Certificate-chain
