@@ -9,6 +9,7 @@ import org.apache.log4j.Logger;
 
 import signer.FileSigner;
 import signer.FileSignerImpl;
+import swing.ui.FileInterface;
 import util.KeyGeneratorCusom;
 import util.SelfSignedCertificateGeneration;
 
@@ -18,14 +19,17 @@ public class SignProcessor {
 
 	private static File file;
 	private static FileSigner signer;
-
+	
 	public static void main(String[] args) {
 		logger.debug("======= START Sign processor main method =========");
-		KeyGeneratorCusom.loadCertificate();
+		FileInterface.showMainScreen();
+//		FileInterface.showAllFilesInDir(ROOT_FILE_DIR);
+//		FileInterface.fileDownloadDialog(ROOT_FILE_DIR);
+//		FileInterface.showAllFilesInDir(ROOT_FILE_DIR);
+//		KeyGeneratorCusom.loadCertificate();
 //		SelfSignedCertificateGeneration.genCerteficate(); 
 //		KeyGenerator generator = new KeyGenerator();
 //		generator.init();
-//		String filePath = "src/main/resources/files/test_excel.ods"; // path to file which will signed
 
 //		testCreationFile();
 //		logger.debug("test file created");
@@ -49,14 +53,4 @@ public class SignProcessor {
 		logger.debug("======= END INIT method with file.length: " + file.length() + " =========");
 	}
 
-	private static void testCreationFile() {
-		String tepmFileName = "src/main/resources/files/text.txt";
-		String testText = "text for testing";
-		try (OutputStream os = new FileOutputStream(new File(tepmFileName))) {
-			os.write(testText.getBytes());
-			os.flush();
-		} catch (IOException e) {
-			logger.debug("ERROR file creation");
-		}
-	}
 }

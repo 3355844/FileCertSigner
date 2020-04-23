@@ -20,7 +20,7 @@ import org.apache.log4j.Logger;
 public class KeyGeneratorCusom {
 
 	private static final Logger logger = Logger.getLogger(KeyGeneratorCusom.class);
-	public static final int KEY_SIZE = 256;
+	public static final int KEY_SIZE = 2048;
 	private static final String keyPathDir = "src/main/resources/cert/";
 
 	public static void loadCertificate() {
@@ -61,8 +61,8 @@ public class KeyGeneratorCusom {
 			PrivateKey privayeKey = keyPair.getPrivate();
 			logger.debug(privayeKey.toString());
 			logger.debug(publicKey.toString());
-			writeToFile(keyPathDir + "publicKey", publicKey.getEncoded());
-			writeToFile(keyPathDir + "privateKey", privayeKey.getEncoded());
+			FileWorker.writeToFile(keyPathDir + "publicKey", publicKey.getEncoded());
+			FileWorker.writeToFile(keyPathDir + "privateKey", privayeKey.getEncoded());
 			logger.debug("Genereted key Pair Done");
 			String alias = "localhost";
 //			Certificate cert = keyPair.
@@ -70,21 +70,6 @@ public class KeyGeneratorCusom {
 //			String publicKeyValue = publicKey.toString();
 //			logger.debug("public key value " + publicKeyValue);
 		} catch (NoSuchAlgorithmException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-
-	}
-
-	public void writeToFile(String path, byte[] key) {
-		File f = new File(path);
-		f.getParentFile().mkdirs();
-		try (FileOutputStream fos = new FileOutputStream(f)) {
-			fos.write(key);
-			fos.flush();
-			fos.close();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}

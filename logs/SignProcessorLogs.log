@@ -262,3 +262,269 @@
 2020-04-21 17:47:10 DEBUG SignProcessor:23 - ======= START Sign processor main method =========
 2020-04-21 17:47:10 DEBUG KeyGeneratorCusom:33 - 
 2020-04-21 17:47:10 DEBUG SignProcessor:42 - ======== END Sign processor main method =========
+2020-04-23 11:55:58 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 11:57:15 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:13:49 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:13:55 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:16:21 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:16:31 DEBUG FileInterface:30 - File download Error!
+2020-04-23 12:16:31 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:19:15 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:19:16 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:27:26 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:27:26 DEBUG FileInterface:21 - test_excel.ods
+2020-04-23 12:27:26 DEBUG FileInterface:21 - text.txt
+2020-04-23 12:27:26 DEBUG FileInterface:21 - TestFileForDownload.txt
+2020-04-23 12:27:26 DEBUG FileInterface:21 - info.txt
+2020-04-23 12:27:26 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:29:25 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:29:25 DEBUG FileInterface:18 - get files from dir
+2020-04-23 12:29:25 DEBUG FileInterface:22 - File Name: test_excel.ods
+2020-04-23 12:29:25 DEBUG FileInterface:22 - File Name: text.txt
+2020-04-23 12:29:25 DEBUG FileInterface:22 - File Name: TestFileForDownload.txt
+2020-04-23 12:29:25 DEBUG FileInterface:22 - File Name: info.txt
+2020-04-23 12:29:25 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:30:27 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:30:27 DEBUG FileInterface:18 - get files from dir
+2020-04-23 12:30:27 DEBUG FileInterface:22 - File Name: test_excel.ods
+2020-04-23 12:30:27 DEBUG FileInterface:22 - File Name: text.txt
+2020-04-23 12:30:27 DEBUG FileInterface:22 - File Name: info.txt
+2020-04-23 12:30:27 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:30:38 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:30:38 DEBUG FileInterface:27 - begin file download dialog
+2020-04-23 12:30:59 DEBUG FileInterface:18 - get files from dir
+2020-04-23 12:30:59 DEBUG FileInterface:22 - File Name: test_excel.ods
+2020-04-23 12:30:59 DEBUG FileInterface:22 - File Name: text.txt
+2020-04-23 12:30:59 DEBUG FileInterface:22 - File Name: TestFileForDownload.txt
+2020-04-23 12:30:59 DEBUG FileInterface:22 - File Name: info.txt
+2020-04-23 12:30:59 DEBUG SignProcessor:45 - ======== END Sign processor main method =========
+2020-04-23 12:33:58 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 12:33:58 DEBUG FileInterface:18 - get files from dir
+2020-04-23 12:33:58 DEBUG FileInterface:22 - File Name: test_excel.ods
+2020-04-23 12:33:58 DEBUG FileInterface:22 - File Name: text.txt
+2020-04-23 12:33:58 DEBUG FileInterface:22 - File Name: info.txt
+2020-04-23 12:33:58 DEBUG FileInterface:27 - begin file download dialog
+2020-04-23 12:34:03 DEBUG FileInterface:36 - File downloaded succsses, file name:TestFileForDownload.txt
+2020-04-23 12:34:03 DEBUG FileInterface:18 - get files from dir
+2020-04-23 12:34:03 DEBUG FileInterface:22 - File Name: test_excel.ods
+2020-04-23 12:34:03 DEBUG FileInterface:22 - File Name: text.txt
+2020-04-23 12:34:03 DEBUG FileInterface:22 - File Name: TestFileForDownload.txt
+2020-04-23 12:34:03 DEBUG FileInterface:22 - File Name: info.txt
+2020-04-23 12:34:03 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:11:12 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:11:12 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:11:12 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:11:12 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:11:12 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:11:12 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:11:52 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:11:52 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:11:52 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:11:52 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:11:52 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:11:52 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:12:01 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:12:01 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:12:01 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:12:01 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:12:01 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:12:01 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:13:38 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:13:38 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:13:38 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:13:38 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:13:38 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:13:38 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:13:39 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:14:33 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:14:33 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:14:33 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:14:33 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:14:33 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:14:33 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:14:34 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:15:29 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:15:29 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:15:29 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:15:29 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:15:29 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:15:29 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:15:30 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:16:23 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:16:23 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:16:23 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:16:23 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:16:23 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:16:23 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:16:23 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:18:11 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:18:11 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:18:11 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:18:11 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:18:11 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:18:11 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:18:11 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:18:19 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:18:19 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:18:19 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:18:19 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:18:19 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:18:19 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:18:19 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:18:43 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:18:43 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:18:43 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:18:43 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:18:43 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:18:43 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:18:44 DEBUG FileInterface:56 - begin file download dialog
+2020-04-23 13:18:52 DEBUG FileInterface:62 - File download Error!
+2020-04-23 13:18:52 DEBUG FileInterface:64 - End file download dialog
+2020-04-23 13:18:52 DEBUG FileInterface:23 - get files from dir
+2020-04-23 13:18:52 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:18:52 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:18:52 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:18:52 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:18:52 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:20:57 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:20:57 DEBUG FileInterface:24 - get files from dir
+2020-04-23 13:20:57 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:20:57 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:20:57 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:20:57 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:20:57 DEBUG FileInterface:57 - begin file download dialog
+2020-04-23 13:21:01 DEBUG FileInterface:64 - File download Error!
+2020-04-23 13:21:01 DEBUG FileInterface:66 - End file download dialog
+2020-04-23 13:21:01 DEBUG FileInterface:24 - get files from dir
+2020-04-23 13:21:01 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:21:01 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:21:01 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 13:21:01 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:21:01 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:21:32 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:21:32 DEBUG FileInterface:24 - get files from dir
+2020-04-23 13:21:32 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:21:32 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:21:32 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:21:32 DEBUG FileInterface:57 - begin file download dialog
+2020-04-23 13:21:36 DEBUG FileInterface:64 - File download Error!
+2020-04-23 13:21:36 DEBUG FileInterface:66 - End file download dialog
+2020-04-23 13:21:36 DEBUG FileInterface:24 - get files from dir
+2020-04-23 13:21:36 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 13:21:36 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 13:21:36 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 13:21:36 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 13:30:50 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:30:50 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:37:47 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:37:48 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:38:26 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:38:26 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:38:59 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:38:59 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:39:36 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:39:36 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:39:53 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:39:53 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:40:43 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:40:43 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:41:00 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:41:00 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:41:24 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:41:24 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:41:59 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:41:59 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:44:29 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:44:29 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:46:09 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:48:27 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:48:27 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:50:15 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:50:15 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:50:51 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:50:51 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 13:51:11 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:53:41 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 13:53:41 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:06:16 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 14:06:16 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:06:48 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 14:06:48 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:09:40 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 14:09:40 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:10:02 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 14:10:02 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:12:51 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 14:12:51 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:13:49 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 14:13:49 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:20:00 DEBUG SignProcessor:25 - ======= START Sign processor main method =========
+2020-04-23 14:20:00 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 14:23:00 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 14:23:00 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 14:23:02 DEBUG ActionShowFiles:26 - get files from dir
+2020-04-23 14:23:02 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:23:02 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:23:02 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:33:10 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 14:33:10 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 14:33:12 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:33:12 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:33:12 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:33:12 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:35:34 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 14:35:34 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 14:35:36 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:35:36 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:35:36 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:35:36 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:36:05 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 14:36:05 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 14:36:06 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:36:07 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:36:07 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:36:07 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:36:28 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 14:36:28 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 14:36:29 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:36:29 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:36:29 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:36:29 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:36:32 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:36:32 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:36:32 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:36:32 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:36:40 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:36:40 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:36:40 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:36:40 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:38:44 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 14:38:44 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 14:38:46 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:38:46 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:38:46 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:38:46 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:38:56 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:38:56 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:38:56 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:38:56 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:39:03 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:39:03 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:39:03 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:39:03 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:39:04 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:39:04 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:39:04 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:39:04 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 14:39:08 DEBUG FileInterface:75 - get files from dir
+2020-04-23 14:39:08 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 14:39:08 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 14:39:08 DEBUG FileWorker:33 - File Name: info.txt
