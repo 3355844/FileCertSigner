@@ -10,7 +10,7 @@ import org.apache.log4j.Logger;
 import signer.FileSigner;
 import signer.FileSignerImpl;
 import swing.ui.FileInterface;
-import util.KeyGeneratorCusom;
+import util.SecurityGenerator;
 import util.SelfSignedCertificateGeneration;
 
 public class SignProcessor {
@@ -22,7 +22,8 @@ public class SignProcessor {
 	
 	public static void main(String[] args) {
 		logger.debug("======= START Sign processor main method =========");
-		FileInterface.showMainScreen();
+		FileInterface view = new FileInterface();
+		view.setVisible(true);
 //		FileInterface.showAllFilesInDir(ROOT_FILE_DIR);
 //		FileInterface.fileDownloadDialog(ROOT_FILE_DIR);
 //		FileInterface.showAllFilesInDir(ROOT_FILE_DIR);

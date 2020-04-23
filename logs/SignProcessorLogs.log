@@ -528,3 +528,1126 @@
 2020-04-23 14:39:08 DEBUG FileWorker:33 - File Name: test_excel.ods
 2020-04-23 14:39:08 DEBUG FileWorker:33 - File Name: text.txt
 2020-04-23 14:39:08 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:15:36 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:15:36 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:15:38 DEBUG FileInterface:70 - get files from dir
+2020-04-23 17:15:38 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:15:38 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:15:38 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:15:41 DEBUG FileInterface:92 - begin file download dialog
+2020-04-23 17:16:24 DEBUG FileWorker:15 - Begin write file
+2020-04-23 17:16:24 DEBUG FileWorker:22 - successful writed file :304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:16:24 DEBUG FileWorker:26 - End write file
+2020-04-23 17:16:24 DEBUG FileInterface:109 - File downloaded successful, file name:304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:16:24 DEBUG FileInterface:101 - End file download dialog
+2020-04-23 17:16:28 DEBUG FileInterface:70 - get files from dir
+2020-04-23 17:16:28 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:16:28 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:16:28 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:16:28 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:18:45 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:18:45 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:18:48 DEBUG FileInterface:69 - get files from dir
+2020-04-23 17:18:48 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:18:48 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:18:48 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:18:48 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:18:56 DEBUG FileInterface:91 - begin file download dialog
+2020-04-23 17:18:58 DEBUG FileInterface:98 - File download Error!
+2020-04-23 17:18:58 DEBUG FileInterface:100 - End file download dialog
+2020-04-23 17:20:48 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:21:56 DEBUG FileInterface:91 - begin file download dialog
+2020-04-23 17:22:32 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:22:38 DEBUG FileWorker:15 - Begin write file
+2020-04-23 17:22:38 DEBUG FileWorker:22 - successful writed file :Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:22:38 DEBUG FileWorker:26 - End write file
+2020-04-23 17:22:38 DEBUG FileInterface:108 - File downloaded successful, file name:Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:22:46 DEBUG FileInterface:100 - End file download dialog
+2020-04-23 17:23:19 DEBUG FileInterface:69 - get files from dir
+2020-04-23 17:23:19 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:23:19 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:23:19 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:23:19 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:23:19 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:23:52 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:23:53 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:24:56 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:24:56 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:24:58 DEBUG FileInterface:91 - begin file download dialog
+2020-04-23 17:25:01 DEBUG FileInterface:98 - File download Error!
+2020-04-23 17:25:01 DEBUG FileInterface:100 - End file download dialog
+2020-04-23 17:27:00 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:27:01 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:27:03 DEBUG FileInterface:91 - begin file download dialog
+2020-04-23 17:27:05 INFO  FileInterface:98 - Downloading canceled
+2020-04-23 17:27:05 DEBUG FileInterface:100 - End file download dialog
+2020-04-23 17:27:30 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:27:30 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:27:32 DEBUG FileInterface:69 - get files from dir
+2020-04-23 17:27:32 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:27:32 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:27:32 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:27:32 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:27:32 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:27:51 DEBUG FileInterface:69 - get files from dir
+2020-04-23 17:27:51 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:27:51 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:27:51 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:27:51 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:27:51 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:35:10 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:35:11 DEBUG FileInterface:41 - get files from dir
+2020-04-23 17:35:11 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:35:11 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:35:11 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:35:11 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:35:11 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:35:11 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:35:41 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:35:41 DEBUG FileInterface:41 - get files from dir
+2020-04-23 17:35:41 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:35:41 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:35:41 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:35:41 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:35:41 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:35:41 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:36:57 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:36:57 DEBUG FileInterface:41 - get files from dir
+2020-04-23 17:36:57 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 17:36:57 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 17:36:57 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 17:36:57 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 17:36:57 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 17:36:57 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 17:48:25 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:48:34 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 17:50:36 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:06:25 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:06:26 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:06:26 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:06:26 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:06:26 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:06:26 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:06:26 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:06:26 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:06:31 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:06:31 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:06:31 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:06:31 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:06:31 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:06:31 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:06:31 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:06:31 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:07:32 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:07:33 DEBUG FileInterface:49 - get files from dir
+2020-04-23 18:07:33 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:07:33 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:07:33 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:07:33 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:07:33 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:07:33 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:09:20 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:09:20 DEBUG FileInterface:49 - get files from dir
+2020-04-23 18:09:20 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:09:20 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:09:20 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:09:20 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:09:20 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:09:20 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:27:13 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:27:13 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:28:12 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:28:12 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:28:25 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:28:25 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:29:14 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:29:14 DEBUG FileInterface:42 - begin init
+2020-04-23 18:29:14 DEBUG FileInterface:49 - end init
+2020-04-23 18:29:14 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:31:37 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:31:37 DEBUG FileInterface:42 - begin init
+2020-04-23 18:31:37 DEBUG FileInterface:54 - get files from dir
+2020-04-23 18:31:37 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:31:37 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:31:37 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:31:37 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:31:37 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:31:37 DEBUG FileInterface:50 - end init
+2020-04-23 18:31:37 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:32:12 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:32:12 DEBUG FileInterface:42 - begin init
+2020-04-23 18:32:12 DEBUG FileInterface:54 - get files from dir
+2020-04-23 18:32:12 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:32:12 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:32:12 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:32:12 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:32:12 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:32:12 DEBUG FileInterface:50 - end init
+2020-04-23 18:32:12 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:39:27 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:39:27 DEBUG FileInterface:42 - begin init
+2020-04-23 18:39:28 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:39:28 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:39:28 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:39:28 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:39:28 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:39:28 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:39:28 DEBUG FileInterface:52 - end init
+2020-04-23 18:39:28 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:39:49 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:39:49 DEBUG FileInterface:42 - begin init
+2020-04-23 18:39:49 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:39:49 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:39:49 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:39:49 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:39:49 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:39:49 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:39:49 DEBUG FileInterface:52 - end init
+2020-04-23 18:39:49 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:40:14 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:40:14 DEBUG FileInterface:42 - begin init
+2020-04-23 18:40:14 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:40:14 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:40:14 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:40:14 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:40:14 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:40:14 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:40:14 DEBUG FileInterface:52 - end init
+2020-04-23 18:40:14 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:40:23 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:40:23 DEBUG FileInterface:42 - begin init
+2020-04-23 18:40:23 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:40:23 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:40:23 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:40:23 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:40:23 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:40:23 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:40:23 DEBUG FileInterface:52 - end init
+2020-04-23 18:40:23 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:40:48 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:40:48 DEBUG FileInterface:42 - begin init
+2020-04-23 18:40:48 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:40:48 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:40:48 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:40:48 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:40:48 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:40:48 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:40:48 DEBUG FileInterface:52 - end init
+2020-04-23 18:40:48 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:40:58 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:40:58 DEBUG FileInterface:42 - begin init
+2020-04-23 18:40:58 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:40:58 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:40:58 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:40:58 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:40:58 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:40:58 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:40:58 DEBUG FileInterface:52 - end init
+2020-04-23 18:40:58 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:41:21 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:41:21 DEBUG FileInterface:42 - begin init
+2020-04-23 18:41:21 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:41:21 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:41:21 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:41:21 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:41:21 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:41:21 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:41:21 DEBUG FileInterface:52 - end init
+2020-04-23 18:41:21 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:41:25 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:41:25 DEBUG FileInterface:42 - begin init
+2020-04-23 18:41:25 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:41:25 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:41:25 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:41:25 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:41:25 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:41:25 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:41:25 DEBUG FileInterface:52 - end init
+2020-04-23 18:41:25 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:41:56 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:41:56 DEBUG FileInterface:42 - begin init
+2020-04-23 18:41:56 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:41:56 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:41:56 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:41:56 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:41:56 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:41:56 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:41:56 DEBUG FileInterface:52 - end init
+2020-04-23 18:41:56 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:42:05 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:42:06 DEBUG FileInterface:42 - begin init
+2020-04-23 18:42:06 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:42:06 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:42:06 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:42:06 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:42:06 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:42:06 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:42:06 DEBUG FileInterface:52 - end init
+2020-04-23 18:42:06 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:42:09 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:42:10 DEBUG FileInterface:42 - begin init
+2020-04-23 18:42:10 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:42:10 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:42:10 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:42:10 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:42:10 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:42:10 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:42:10 DEBUG FileInterface:52 - end init
+2020-04-23 18:42:10 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:42:33 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:42:34 DEBUG FileInterface:42 - begin init
+2020-04-23 18:42:34 DEBUG FileInterface:56 - get files from dir
+2020-04-23 18:42:34 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:42:34 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:42:34 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:42:34 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:42:34 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:42:34 DEBUG FileInterface:52 - end init
+2020-04-23 18:42:34 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:45:36 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 18:45:36 DEBUG FileInterface:42 - begin init
+2020-04-23 18:45:36 DEBUG FileInterface:57 - get files from dir
+2020-04-23 18:45:36 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:45:36 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:45:36 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:45:36 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:45:36 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:45:36 DEBUG FileInterface:53 - end init
+2020-04-23 18:45:36 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 18:45:38 DEBUG FileInterface:104 - get files from dir
+2020-04-23 18:45:38 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 18:45:38 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 18:45:38 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 18:45:38 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 18:45:38 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 18:45:42 DEBUG FileInterface:126 - begin file download dialog
+2020-04-23 18:45:43 INFO  FileInterface:133 - Downloading canceled
+2020-04-23 18:45:43 DEBUG FileInterface:135 - End file download dialog
+2020-04-23 19:06:21 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:06:21 DEBUG FileInterface:60 - begin init
+2020-04-23 19:06:21 DEBUG FileInterface:76 - get files table from dir
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:06:21 DEBUG FileInterface:80 - get files table from dir
+2020-04-23 19:06:21 DEBUG FileInterface:76 - get files table from dir
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:06:21 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:06:21 DEBUG FileInterface:80 - get files table from dir
+2020-04-23 19:06:21 DEBUG FileInterface:72 - end init
+2020-04-23 19:06:21 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:09:11 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:09:11 DEBUG FileInterface:62 - begin init
+2020-04-23 19:09:11 DEBUG FileInterface:78 - get files table from dir
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:09:11 DEBUG FileInterface:82 - get files table from dir
+2020-04-23 19:09:11 DEBUG FileInterface:78 - get files table from dir
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:09:11 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:09:11 DEBUG FileInterface:82 - get files table from dir
+2020-04-23 19:09:11 DEBUG FileInterface:74 - end init
+2020-04-23 19:09:11 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:09:14 DEBUG FileInterface:140 - begin file download dialog
+2020-04-23 19:09:18 INFO  FileInterface:147 - Downloading canceled
+2020-04-23 19:09:18 DEBUG FileInterface:149 - End file download dialog
+2020-04-23 19:12:24 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:12:24 DEBUG FileInterface:78 - get files table from dir
+2020-04-23 19:12:24 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:12:24 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:12:24 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:12:24 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:12:24 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:12:24 DEBUG FileInterface:82 - get files table from dir
+2020-04-23 19:12:24 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:13:09 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:13:09 DEBUG FileInterface:79 - get files table from dir
+2020-04-23 19:13:09 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:13:09 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:13:09 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:13:09 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:13:09 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:13:09 DEBUG FileInterface:83 - get files table from dir
+2020-04-23 19:13:09 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:13:32 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:13:41 DEBUG FileInterface:79 - get files table from dir
+2020-04-23 19:13:41 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:13:41 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:13:41 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:13:41 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:13:41 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:13:41 DEBUG FileInterface:83 - get files table from dir
+2020-04-23 19:14:21 DEBUG FileInterface:79 - get files table from dir
+2020-04-23 19:14:21 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:14:21 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:14:21 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:14:21 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:14:21 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:14:21 DEBUG FileInterface:83 - get files table from dir
+2020-04-23 19:14:21 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:15:43 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:15:43 DEBUG FileInterface:81 - get files table from dir
+2020-04-23 19:15:43 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:15:43 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:15:43 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:15:43 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:15:43 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:15:43 DEBUG FileInterface:85 - get files table from dir
+2020-04-23 19:15:43 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:15:46 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:15:47 DEBUG FileInterface:81 - get files table from dir
+2020-04-23 19:15:47 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:15:47 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:15:47 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:15:47 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:15:47 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:15:47 DEBUG FileInterface:85 - get files table from dir
+2020-04-23 19:15:47 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:15:53 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:15:54 DEBUG FileInterface:81 - get files table from dir
+2020-04-23 19:15:54 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:15:54 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:15:54 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:15:54 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:15:54 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:15:54 DEBUG FileInterface:85 - get files table from dir
+2020-04-23 19:15:54 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:16:27 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:16:27 DEBUG FileInterface:81 - get files table from dir
+2020-04-23 19:16:27 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:16:27 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:16:27 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:16:27 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:16:27 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:16:27 DEBUG FileInterface:85 - get files table from dir
+2020-04-23 19:16:27 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:18:19 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:18:19 DEBUG FileInterface:81 - get files table from dir
+2020-04-23 19:18:19 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:18:19 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:18:19 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:18:19 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:18:19 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:18:19 DEBUG FileInterface:85 - get files table from dir
+2020-04-23 19:18:19 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:18:37 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:18:37 DEBUG FileInterface:80 - get files table from dir
+2020-04-23 19:18:37 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:18:37 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:18:37 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:18:37 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:18:37 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:18:37 DEBUG FileInterface:84 - get files table from dir
+2020-04-23 19:18:37 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:19:35 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:19:36 DEBUG FileInterface:80 - get files table from dir
+2020-04-23 19:19:36 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:19:36 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:19:36 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:19:36 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:19:36 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:19:36 DEBUG FileInterface:84 - get files table from dir
+2020-04-23 19:19:36 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:25:31 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:25:31 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:25:32 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:25:33 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:25:41 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:25:41 DEBUG SignProcessor:46 - ======== END Sign processor main method =========
+2020-04-23 19:26:41 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:26:42 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 19:28:01 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:28:01 DEBUG FileInterface:143 - get files table from dir
+2020-04-23 19:28:01 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:28:01 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:28:01 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:28:01 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:28:01 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:28:01 DEBUG FileInterface:147 - get files table from dir
+2020-04-23 19:28:01 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 19:34:23 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:34:23 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 19:34:23 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:34:23 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:34:23 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:34:23 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:34:23 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:34:23 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 19:34:23 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 19:34:25 DEBUG FileInterface:191 - begin file download dialog
+2020-04-23 19:34:41 DEBUG FileWorker:15 - Begin write file
+2020-04-23 19:34:41 DEBUG FileWorker:22 - successful writed file :web.xml
+2020-04-23 19:34:41 DEBUG FileWorker:26 - End write file
+2020-04-23 19:34:41 DEBUG FileInterface:208 - File downloaded successful, file name:web.xml
+2020-04-23 19:34:41 DEBUG FileInterface:200 - End file download dialog
+2020-04-23 19:40:54 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:40:54 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 19:40:54 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:40:54 DEBUG FileWorker:33 - File Name: Техніко-економічне обгрунтування заміни механізмів.rtf
+2020-04-23 19:40:54 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:40:54 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:40:54 DEBUG FileWorker:33 - File Name: 304_1_5-1_ПД_ИВР.rtf
+2020-04-23 19:40:54 DEBUG FileWorker:33 - File Name: web.xml
+2020-04-23 19:40:54 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 19:40:54 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 19:43:44 DEBUG FileInterface:190 - begin file download dialog
+2020-04-23 19:43:54 DEBUG FileWorker:15 - Begin write file
+2020-04-23 19:43:54 DEBUG FileWorker:22 - successful writed file :TestFileForDownload.txt
+2020-04-23 19:43:54 DEBUG FileWorker:26 - End write file
+2020-04-23 19:43:54 DEBUG FileInterface:207 - File downloaded successful, file name:TestFileForDownload.txt
+2020-04-23 19:43:54 DEBUG FileInterface:199 - End file download dialog
+2020-04-23 19:43:54 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 19:43:54 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:43:54 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:43:54 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 19:43:54 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:43:54 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 19:44:22 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 19:44:22 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 19:44:22 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:44:22 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:44:22 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 19:44:22 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:44:23 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 19:44:23 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 19:44:29 DEBUG FileInterface:190 - begin file download dialog
+2020-04-23 19:44:31 INFO  FileInterface:197 - Downloading canceled
+2020-04-23 19:44:31 DEBUG FileInterface:199 - End file download dialog
+2020-04-23 19:44:31 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 19:44:31 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 19:44:31 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 19:44:31 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 19:44:31 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 19:44:31 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:02:51 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:02:51 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:02:51 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:02:51 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:02:51 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:02:51 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:02:51 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:02:51 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:02:54 DEBUG FileInterface:190 - begin file download dialog
+2020-04-23 20:03:24 INFO  FileInterface:197 - Downloading canceled
+2020-04-23 20:03:24 DEBUG FileInterface:199 - End file download dialog
+2020-04-23 20:03:25 DEBUG FileInterface:190 - begin file download dialog
+2020-04-23 20:03:39 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:03:39 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (copy).txt
+2020-04-23 20:03:39 DEBUG FileWorker:26 - End write file
+2020-04-23 20:03:39 DEBUG FileInterface:207 - File downloaded successful, file name:TestFileForDownload (copy).txt
+2020-04-23 20:03:39 DEBUG FileInterface:199 - End file download dialog
+2020-04-23 20:04:07 DEBUG FileInterface:190 - begin file download dialog
+2020-04-23 20:04:07 INFO  FileInterface:197 - Downloading canceled
+2020-04-23 20:04:07 DEBUG FileInterface:199 - End file download dialog
+2020-04-23 20:06:39 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:06:39 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:06:39 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:06:39 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:06:39 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:06:39 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:06:39 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:06:39 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:06:39 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:06:43 DEBUG FileInterface:192 - begin file download dialog
+2020-04-23 20:06:57 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:06:57 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (another copy).txt
+2020-04-23 20:06:57 DEBUG FileWorker:26 - End write file
+2020-04-23 20:06:57 DEBUG FileInterface:209 - File downloaded successful, file name:TestFileForDownload (another copy).txt
+2020-04-23 20:06:57 DEBUG FileInterface:201 - End file download dialog
+2020-04-23 20:06:57 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:06:57 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:06:57 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:06:57 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:06:57 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:06:57 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:06:57 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:06:57 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:07:02 DEBUG FileInterface:192 - begin file download dialog
+2020-04-23 20:07:12 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:07:12 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (6th copy).txt
+2020-04-23 20:07:12 DEBUG FileWorker:26 - End write file
+2020-04-23 20:07:12 DEBUG FileInterface:209 - File downloaded successful, file name:TestFileForDownload (6th copy).txt
+2020-04-23 20:07:12 DEBUG FileInterface:201 - End file download dialog
+2020-04-23 20:07:12 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:07:12 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:07:12 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:07:12 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:07:12 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:07:12 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:07:12 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:07:12 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:07:12 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:09:38 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:09:38 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:09:38 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:09:38 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:09:38 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:09:38 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:09:38 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:09:38 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:09:38 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:09:38 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:09:38 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:09:43 DEBUG FileInterface:194 - begin file download dialog
+2020-04-23 20:09:49 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:09:49 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (5th copy).txt
+2020-04-23 20:09:49 DEBUG FileWorker:26 - End write file
+2020-04-23 20:09:49 DEBUG FileInterface:211 - File downloaded successful, file name:TestFileForDownload (5th copy).txt
+2020-04-23 20:09:49 DEBUG FileInterface:203 - End file download dialog
+2020-04-23 20:09:49 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:09:49 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:09:49 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:10:15 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:10:15 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:10:15 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:10:16 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:10:16 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:10:22 DEBUG FileInterface:194 - begin file download dialog
+2020-04-23 20:10:34 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:10:34 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (4th copy).txt
+2020-04-23 20:10:34 DEBUG FileWorker:26 - End write file
+2020-04-23 20:10:34 DEBUG FileInterface:211 - File downloaded successful, file name:TestFileForDownload (4th copy).txt
+2020-04-23 20:10:34 DEBUG FileInterface:203 - End file download dialog
+2020-04-23 20:10:34 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:10:34 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:10:34 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:11:22 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:11:22 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:11:22 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:11:22 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:11:22 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:11:29 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:11:35 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:11:35 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (3rd copy).txt
+2020-04-23 20:11:35 DEBUG FileWorker:26 - End write file
+2020-04-23 20:11:35 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload (3rd copy).txt
+2020-04-23 20:11:35 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:11:35 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:11:35 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:11:35 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:12:37 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:12:37 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:12:37 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:12:37 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:12:37 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:12:38 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:12:38 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:12:41 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:12:48 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:12:48 DEBUG FileWorker:22 - successful writed file :TestFileForDownload.txt
+2020-04-23 20:12:48 DEBUG FileWorker:26 - End write file
+2020-04-23 20:12:48 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload.txt
+2020-04-23 20:12:48 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:12:48 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:12:48 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:12:48 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:12:48 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:12:48 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:12:48 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:13:00 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:13:00 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:13:00 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:13:00 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:13:00 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:13:00 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:13:00 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:13:00 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:13:04 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:13:17 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:13:17 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (copy).txt
+2020-04-23 20:13:17 DEBUG FileWorker:26 - End write file
+2020-04-23 20:13:17 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload (copy).txt
+2020-04-23 20:13:17 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:13:17 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:13:17 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:13:17 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:13:17 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:13:17 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:13:17 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:13:17 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:13:52 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:14:08 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:14:08 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (3rd copy).txt
+2020-04-23 20:14:08 DEBUG FileWorker:26 - End write file
+2020-04-23 20:14:08 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload (3rd copy).txt
+2020-04-23 20:14:08 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:14:08 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:14:08 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:14:08 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:14:08 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:14:08 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:14:08 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:14:08 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:14:08 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:15:55 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:15:55 DEBUG FileInterface:123 - get files table from dir
+2020-04-23 20:15:55 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:15:55 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:15:55 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:15:55 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:15:55 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:15:55 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:15:55 DEBUG FileInterface:127 - get files table from dir
+2020-04-23 20:15:55 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:16:42 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:16:42 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:16:43 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:16:43 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:16:43 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:16:43 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:16:43 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:16:43 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:16:43 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:16:43 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:17:40 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:17:40 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:17:40 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:17:40 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:17:40 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:17:40 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:17:40 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:17:40 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:17:40 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:17:40 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:18:50 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:18:50 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:18:50 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:18:50 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:18:50 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:18:50 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:18:50 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:18:50 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:18:50 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:18:50 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:19:27 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:19:27 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:19:27 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:19:27 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:19:27 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:19:27 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:19:27 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:19:27 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:19:27 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:19:27 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:19:35 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:19:45 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:19:45 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (4th copy).txt
+2020-04-23 20:19:45 DEBUG FileWorker:26 - End write file
+2020-04-23 20:19:45 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload (4th copy).txt
+2020-04-23 20:19:45 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:19:45 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:19:45 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:19:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:19:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:19:45 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:19:45 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:19:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:19:45 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:19:45 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:20:10 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:20:10 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:20:10 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:20:10 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:20:10 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:20:10 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:20:10 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:20:10 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:20:10 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:20:10 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:20:10 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:21:03 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:21:03 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:21:03 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:21:03 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:21:03 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:21:03 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:21:03 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:21:03 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:21:03 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:21:03 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:21:03 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:22:44 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:22:44 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:22:44 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:22:44 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:22:44 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:22:44 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:22:44 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:22:44 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:22:44 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:22:44 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:22:44 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:26:30 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:26:30 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:26:30 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:26:30 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:26:30 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:26:30 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:26:30 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:26:30 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:26:30 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:26:30 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:26:30 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:26:36 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:26:41 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:26:41 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (5th copy).txt
+2020-04-23 20:26:41 DEBUG FileWorker:26 - End write file
+2020-04-23 20:26:41 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload (5th copy).txt
+2020-04-23 20:26:41 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:26:41 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:26:41 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:26:41 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:30:30 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:30:31 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:30:31 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:30:31 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:30:31 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:30:48 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:30:48 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:30:48 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:30:48 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:30:48 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:32:44 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:32:44 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:32:44 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:32:44 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:32:44 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:33:07 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:33:07 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:33:07 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:33:07 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:33:07 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:33:53 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:33:53 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:33:53 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:33:53 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:33:53 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:34:05 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:34:05 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:34:05 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:34:05 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:34:05 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:34:45 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:34:45 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:34:45 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:34:45 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:35:09 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:35:09 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:35:09 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:35:09 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:35:26 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:35:26 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:35:26 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:35:26 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:35:26 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:36:17 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:36:17 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:36:17 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:36:17 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:36:17 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:36:29 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:36:29 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:36:29 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:36:29 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:36:29 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:36:59 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:36:59 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:36:59 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:36:59 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:36:59 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:37:22 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:37:22 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:37:22 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:37:22 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:37:22 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:37:25 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:37:36 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:37:36 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (6th copy).txt
+2020-04-23 20:37:36 DEBUG FileWorker:26 - End write file
+2020-04-23 20:37:36 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload (6th copy).txt
+2020-04-23 20:37:36 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:37:36 DEBUG FileInterface:125 - get files table from dir
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:37:36 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:37:36 DEBUG FileInterface:129 - get files table from dir
+2020-04-23 20:41:27 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:41:28 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:41:28 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:41:28 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:41:28 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:41:29 DEBUG FileInterface:198 - begin file download dialog
+2020-04-23 20:41:45 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:41:45 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (another copy).txt
+2020-04-23 20:41:45 DEBUG FileWorker:26 - End write file
+2020-04-23 20:41:45 DEBUG FileInterface:215 - File downloaded successful, file name:TestFileForDownload (another copy).txt
+2020-04-23 20:41:45 DEBUG FileInterface:207 - End file download dialog
+2020-04-23 20:41:45 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:41:45 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:41:45 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:43:17 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:43:18 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: TestFileForDownload (6th copy).txt
+2020-04-23 20:43:18 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:43:18 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:43:18 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:44:05 DEBUG FileInterface:201 - begin file download dialog
+2020-04-23 20:44:16 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:44:16 DEBUG FileWorker:22 - successful writed file :TestFileForDownload.txt
+2020-04-23 20:44:16 DEBUG FileWorker:26 - End write file
+2020-04-23 20:44:16 DEBUG FileInterface:218 - File downloaded successful, file name:TestFileForDownload.txt
+2020-04-23 20:44:16 DEBUG FileInterface:210 - End file download dialog
+2020-04-23 20:44:16 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:44:16 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:44:16 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:44:16 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:44:16 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:44:16 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:44:46 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:44:46 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:44:46 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:44:46 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:44:46 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:44:46 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:44:46 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:44:46 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:44:49 DEBUG FileInterface:200 - begin file download dialog
+2020-04-23 20:45:01 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:45:01 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (copy).txt
+2020-04-23 20:45:01 DEBUG FileWorker:26 - End write file
+2020-04-23 20:45:01 DEBUG FileInterface:217 - File downloaded successful, file name:TestFileForDownload (copy).txt
+2020-04-23 20:45:01 DEBUG FileInterface:209 - End file download dialog
+2020-04-23 20:45:01 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:45:01 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:45:01 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:45:01 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:45:01 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:45:01 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:45:01 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:46:24 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:46:24 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:46:24 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:46:24 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:46:24 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:46:24 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:46:24 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:46:24 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:46:24 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:46:26 DEBUG FileInterface:194 - begin file download dialog
+2020-04-23 20:46:31 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:46:31 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (another copy).txt
+2020-04-23 20:46:31 DEBUG FileWorker:26 - End write file
+2020-04-23 20:46:31 DEBUG FileInterface:211 - File downloaded successful, file name:TestFileForDownload (another copy).txt
+2020-04-23 20:46:31 DEBUG FileInterface:203 - End file download dialog
+2020-04-23 20:46:31 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:46:31 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:46:31 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:46:31 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:46:31 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:46:31 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:46:31 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:46:31 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:47:01 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-23 20:47:01 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:47:01 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:47:01 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:47:01 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:47:01 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:47:01 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:47:01 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:47:01 DEBUG FileInterface:130 - get files table from dir
+2020-04-23 20:47:01 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-23 20:47:02 DEBUG FileInterface:195 - begin file download dialog
+2020-04-23 20:47:19 DEBUG FileWorker:15 - Begin write file
+2020-04-23 20:47:19 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (3rd copy).txt
+2020-04-23 20:47:19 DEBUG FileWorker:26 - End write file
+2020-04-23 20:47:19 DEBUG FileInterface:212 - File downloaded successful, file name:TestFileForDownload (3rd copy).txt
+2020-04-23 20:47:19 DEBUG FileInterface:204 - End file download dialog
+2020-04-23 20:47:19 DEBUG FileInterface:126 - get files table from dir
+2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-23 20:47:19 DEBUG FileInterface:130 - get files table from dir

@@ -1,9 +1,25 @@
 package util;
 
 public class Const {
-	public static final String ROOT_FILE_DIR = "src/main/resources/files/";
 
-	
+	public static final String ROOT_FILE_DIR = "src/main/resources/files/";
+	public static final String CERT_DIR = "src/main/resources/cert/";
+
+	public static enum KeyStoreType {
+		JKS("jks"), PKCS12("pkcs12");
+
+		private String type;
+
+		public String type() {
+			return this.type;
+		}
+
+		private KeyStoreType(String type) {
+			this.type = type;
+		}
+
+	}
+
 	public static final String CERT_TEXT = "MIIO0AYJKoZIhvcNAQcCoIIOwTCCDr0CAQExDjAMBgoqhiQCAQEBAQIBMAsGCSqGSIb3DQEHAaCCB0Mwggc/MIIG56ADAgECAhQiM1zMbyGb0gQAAAD/JwAARQIBADANBgsqhiQCAQEBAQMBATCB8jEkMCIGA1UECgwb0JDQoiAi0K<br>\n"
 			+ "PQutGA0KHQuNCx0LHQsNC90LoiMSMwIQYDVQQLDBrQk9GA0YPQv9CwINCj0KbQodCaINCh0IbQkTFrMGkGA1UEAwxi0JDQptCh0Jog0J/Rg9Cx0LvRltGH0L3QvtCz0L4g0LDQutGG0ZbQvtC90LXRgNC90L7Qs9C+INGC0L7QstCw0YDQuNGB0YLQstCw<br>\n"
 			+ "ICLQo9C60YDQodC40LHQsdCw0L3QuiIxGDAWBgNVBAUMD1VBLTA5ODA3NzUwLTAwMjELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyMB4XDTE3MTEyMDIyMDAwMFoXDTE5MTEyMDIyMDAwMFowggFgMSQwIgYDVQQKDBvQkNCiICLQo9C60YDQod<br>\n"
