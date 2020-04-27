@@ -15,7 +15,6 @@ import java.security.PublicKey;
 import java.security.Signature;
 import java.security.cert.Certificate;
 import java.security.interfaces.RSAPrivateKey;
-import java.security.interfaces.RSAPublicKey;
 import java.security.spec.PKCS8EncodedKeySpec;
 import java.security.spec.X509EncodedKeySpec;
 
@@ -42,7 +41,7 @@ public class SecurityGenerator {
 		logger.debug("Signing file: " + file.getName());
 		logger.debug("private key name:" + Const.DEF_PRIV_KEY);
 		String result = "";
-		String signPath = Const.CERT_DIR + "_sign_" + fileName;
+		String signPath = Const.CERT_DIR + "sign_" + fileName;
 		try {
 			Signature sign = Signature.getInstance(Const.SHA256_with_RSA);
 			PrivateKey privateKey = getPrivateKey(Const.CERT_DIR + Const.DEF_PRIV_KEY);

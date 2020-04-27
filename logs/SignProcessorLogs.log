@@ -2967,3 +2967,30 @@
 2020-04-27 16:55:19 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
 2020-04-27 16:55:19 DEBUG SecurityGenerator:75 - Verify complete :ERR
 2020-04-27 16:55:19 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 21:04:31 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 21:04:31 DEBUG SecurityGenerator:41 - Signing file: info.txt
+2020-04-27 21:04:31 DEBUG SecurityGenerator:42 - private key name:testPrivateKey
+2020-04-27 21:04:31 DEBUG FileWorker:65 - Begin write file
+2020-04-27 21:04:31 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 21:04:31 DEBUG FileWorker:76 - End write file
+2020-04-27 21:04:31 DEBUG SecurityGenerator:55 - Sign complete
+2020-04-27 21:04:31 DEBUG SecurityGenerator:63 - Verify file: info.txt
+2020-04-27 21:04:31 DEBUG SecurityGenerator:64 - Public Key name: testPublicKey
+2020-04-27 21:04:31 DEBUG SecurityGenerator:74 - Verify complete :ERR
+2020-04-27 21:04:31 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 21:04:40 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 21:04:40 DEBUG SecurityGenerator:63 - Verify file: info.txt
+2020-04-27 21:04:40 DEBUG SecurityGenerator:64 - Public Key name: testPublicKey
+2020-04-27 21:04:40 DEBUG SecurityGenerator:74 - Verify complete :ERR
+2020-04-27 21:04:40 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 23:26:35 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 23:26:35 DEBUG SecurityGenerator:41 - Signing file: info.txt
+2020-04-27 23:26:35 DEBUG SecurityGenerator:42 - private key name:testPrivateKey
+2020-04-27 23:26:35 DEBUG FileWorker:65 - Begin write file
+2020-04-27 23:26:35 DEBUG FileWorker:72 - successful writed file :sign_info.txt
+2020-04-27 23:26:35 DEBUG FileWorker:76 - End write file
+2020-04-27 23:26:35 DEBUG SecurityGenerator:55 - Sign complete
+2020-04-27 23:26:35 DEBUG SecurityGenerator:63 - Verify file: info.txt
+2020-04-27 23:26:35 DEBUG SecurityGenerator:64 - Public Key name: testPublicKey
+2020-04-27 23:26:35 DEBUG SecurityGenerator:74 - Verify complete :ERR
+2020-04-27 23:26:35 DEBUG SignProcessor:72 - ======== END Sign processor main method =========

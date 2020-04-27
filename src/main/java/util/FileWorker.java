@@ -56,7 +56,7 @@ public class FileWorker {
 	}
 
 	public static File getFileSign(String fileName) {
-		String fileSign = Const.CERT_DIR + "_sign_" + fileName;
+		String fileSign = Const.CERT_DIR + "sign_" + fileName;
 		File file = new File(fileSign);
 		return file;
 	}
