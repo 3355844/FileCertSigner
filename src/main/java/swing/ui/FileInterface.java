@@ -43,13 +43,12 @@ public class FileInterface extends JFrame {
 //	private static final JFrame ROOT_FRAME = new JFrame("File signer");
 //	private static final JRootPane ROOT_PANE = new JRootPane();
 //	private static final JLayeredPane LAY_PANE = new JLayeredPane();
-	private static final String[] TABLE_COL = { "NAME", "SIGN", "VERIFIED"};
+	private static final String[] TABLE_COL = { "NAME (click for sign)","VERIFIED"};
 //	private JPanel topPanel;
 //	private JPanel btnPanel;
 	public static JScrollPane scrollPane = new JScrollPane();
 //	private JTable table;
 	private JButton loadFileBtn = addFileBtn(this);
-	private JButton generateReportBtn = new JButton("Generate Report");
 	private JButton exitBtn = new JButton("Exit");
 //	private JLabel fileNameLbl = new JLabel("File Name Here");
 	private JMenuBar menuBar = new JMenuBar();
@@ -92,6 +91,8 @@ public class FileInterface extends JFrame {
 //		setJMenuBar(menuBar);
 		scrollPane = new JScrollPane(table);
 		panel1.add(scrollPane);
+		panel1.setBorder(BorderFactory.createTitledBorder("FILES"));
+		
 
 //		panel2.add(fileNameLbl);
 		panel3.add(loadFileBtn);
@@ -127,6 +128,7 @@ public class FileInterface extends JFrame {
 		String[] files = FileWorker.getFileListFromDir(Const.ROOT_FILE_DIR);
 		String[][] data = convert(files);
 		JTable table = new JTable(data, TABLE_COL);
+		new ButtonColumn(table, 0);
 		logger.debug("get files table from dir");
 		return table;
 	}
@@ -197,21 +199,10 @@ public class FileInterface extends JFrame {
 		frame.add(chooser);
 		int value = chooser.showOpenDialog(null);
 		if (value == JFileChooser.APPROVE_OPTION) {
-			fileSaveProc(saveDir, chooser);
+			FileWorker.fileSaveProc(saveDir, chooser.getSelectedFile());
 		} else {
 			logger.info("Downloading canceled");
 		}
 		logger.debug("End file download dialog");
-	}
-
-	private static void fileSaveProc(String saveDir, JFileChooser chooser) {
-		File file = chooser.getSelectedFile();
-		String filePath = saveDir + file.getName();
-		try {
-			FileWorker.writeToFile(filePath, Files.readAllBytes(file.toPath()));
-			logger.debug("File downloaded successful, file name:" + file.getName());
-		} catch (IOException e) {
-			logger.error("Error Write file {}", e);
-		}
 	}
 }

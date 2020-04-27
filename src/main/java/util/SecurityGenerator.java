@@ -1,15 +1,23 @@
 package util;
 
+import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.nio.file.Files;
 import java.security.Key;
+import java.security.KeyFactory;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
 import java.security.KeyStore;
 import java.security.NoSuchAlgorithmException;
 import java.security.PrivateKey;
 import java.security.PublicKey;
+import java.security.Signature;
 import java.security.cert.Certificate;
+import java.security.interfaces.RSAPrivateKey;
+import java.security.interfaces.RSAPublicKey;
+import java.security.spec.PKCS8EncodedKeySpec;
+import java.security.spec.X509EncodedKeySpec;
 
 import javax.crypto.KeyGenerator;
 
@@ -21,14 +29,65 @@ public class SecurityGenerator {
 	private static final int KEY_SIZE = 2048;
 	private static String ALIAS;
 	private static String DEF_ALIAS_VAL = "genDefault";
-	
+
 	public static void init(String alias) {
 		ALIAS = alias;
 		if (ALIAS == null) {
 			ALIAS = DEF_ALIAS_VAL;
 		}
 	}
-	
+
+	public static String signFile(String fileName) {
+		File file = FileWorker.getFile(fileName);
+		logger.debug("Signing file: " + file.getName());
+		logger.debug("private key name:" + Const.DEF_PRIV_KEY);
+		String result = "";
+		try {
+			Signature sign = Signature.getInstance(Const.SHA256_with_RSA);
+			PrivateKey privateKey = getPrivateKey(Const.CERT_DIR + Const.DEF_PRIV_KEY);
+			sign.initSign(privateKey);
+			sign.update(Files.readAllBytes(file.toPath()));
+			sign.sign();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		logger.debug("Sign complete");
+		return result;
+	}
+
+	public static String verifySign(String fileName) {
+		String result = null;
+		File file = FileWorker.getFile(fileName);
+		logger.debug("Verify file: " + file.getName());
+		logger.debug("Public Key name: " + Const.DEF_PUB_KEY);
+		try {
+			Signature sign = Signature.getInstance(Const.SHA256_with_RSA);
+			PublicKey publicKey = getPublicKey(Const.CERT_DIR + Const.DEF_PUB_KEY);
+			sign.initVerify(publicKey);
+			sign.update(Files.readAllBytes(file.toPath()));
+			result = sign.verify(Files.readAllBytes(file.toPath())) ? "OK" : "ERR";
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		logger.debug("Verify complete :" + result);
+		return result;
+	}
+
+	public static PublicKey getPublicKey(String fileName) throws Exception {
+		File f = new File(fileName);
+		X509EncodedKeySpec keySpecX509 = new X509EncodedKeySpec(Files.readAllBytes(f.toPath()));
+		KeyFactory kf = KeyFactory.getInstance("RSA");
+		RSAPublicKey pubKey = (RSAPublicKey) kf.generatePublic(keySpecX509);
+		return pubKey;
+	}
+
+	public static RSAPrivateKey getPrivateKey(String fileName) throws Exception {
+		File f = new File(fileName);
+		PKCS8EncodedKeySpec spec = new PKCS8EncodedKeySpec(Files.readAllBytes(f.toPath()));
+		KeyFactory kf = KeyFactory.getInstance("RSA");
+		return (RSAPrivateKey) kf.generatePrivate(spec);
+	}
+
 	public static void loadCertificate(String instName, String certName, String pass) {
 		try {
 			KeyStore keyStore = KeyStore.getInstance(Const.KeyStoreType.PKCS12.type());
@@ -54,18 +113,18 @@ public class SecurityGenerator {
 		}
 	}
 
-	public void genKeyPairRSA() {
+	public static void genKeyPairRSA() {
 		logger.debug("Begin generate Key Pair");
 		try {
 			KeyPairGenerator keyPairGen = KeyPairGenerator.getInstance("RSA");
 			keyPairGen.initialize(KEY_SIZE);
 			KeyPair keyPair = keyPairGen.generateKeyPair();
-			PublicKey publicKey = keyPair.getPublic();
-			PrivateKey privayeKey = keyPair.getPrivate();
-			logger.debug(privayeKey.toString());
-			logger.debug(publicKey.toString());
-			FileWorker.writeToFile(Const.CERT_DIR + "publicKey", publicKey.getEncoded());
-			FileWorker.writeToFile(Const.CERT_DIR + "privateKey", privayeKey.getEncoded());
+			Key publicKey = keyPair.getPublic();
+			Key privayeKey = keyPair.getPrivate();
+			logger.debug("Private Key Format: " + privayeKey.getFormat());
+			logger.debug("Public Key Format: " + publicKey.getFormat());
+			FileWorker.writeToFile(Const.CERT_DIR + Const.DEF_PUB_KEY, publicKey.getEncoded());
+			FileWorker.writeToFile(Const.CERT_DIR + Const.DEF_PRIV_KEY, privayeKey.getEncoded());
 			logger.debug("Genereted key Pair Done");
 		} catch (NoSuchAlgorithmException e) {
 			e.printStackTrace();

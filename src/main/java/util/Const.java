@@ -4,6 +4,10 @@ public class Const {
 
 	public static final String ROOT_FILE_DIR = "src/main/resources/files/";
 	public static final String CERT_DIR = "src/main/resources/cert/";
+	public static final String SHA256_with_DSA = "SHA256withDSA";
+	public static final String SHA256_with_RSA = "SHA256withRSA";
+	public static final String DEF_PUB_KEY = "testPublicKey";
+	public static final String DEF_PRIV_KEY = "testPrivateKey";
 
 	public static enum KeyStoreType {
 		JKS("jks"), PKCS12("pkcs12");
@@ -17,7 +21,6 @@ public class Const {
 		private KeyStoreType(String type) {
 			this.type = type;
 		}
-
 	}
 
 	public static final String CERT_TEXT = "MIIO0AYJKoZIhvcNAQcCoIIOwTCCDr0CAQExDjAMBgoqhiQCAQEBAQIBMAsGCSqGSIb3DQEHAaCCB0Mwggc/MIIG56ADAgECAhQiM1zMbyGb0gQAAAD/JwAARQIBADANBgsqhiQCAQEBAQMBATCB8jEkMCIGA1UECgwb0JDQoiAi0K<br>\n"
@@ -47,5 +50,4 @@ public class Const {
 			+ "0ZbRlyDQo9C60YDQsNGX0L3QuDExMC8GA1UECwwo0JDQtNC80ZbQvdGW0YHRgtGA0LDRgtC+0YAg0IbQotChINCm0JfQnjFJMEcGA1UEAwxA0KbQtdC90YLRgNCw0LvRjNC90LjQuSDQt9Cw0YHQstGW0LTRh9GD0LLQsNC70YzQvdC40Lkg0L7RgNCz0L<br>\n"
 			+ "DQvTEZMBcGA1UEBQwQVUEtMDAwMTU2MjItMjAxMjELMAkGA1UEBhMCVUExETAPBgNVBAcMCNCa0LjRl9CyAhQwBHUd7yx4rgIAAAABAAAAewAAADANBgsqhiQCAQEBAQMBAQRA6BUK4rX17/SxP/i2EIprTRTjy1YmP1KmXJNwkgid2B9ZTJAigwjBqngU<br>\n"
 			+ "v1+NwvIK0N5oN/5KXjrCCCPuUn94BDANBgsqhiQCAQEBAQMBAQRAHcf9rdee6kmSIvkQAFjNJyleVhQNgThRZI+YLVW94DqyWCadMj9ksvpavrnvg/iUyLEs9mMsOK6AXDQ3RDt/TQ==";
-
 }

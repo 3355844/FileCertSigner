@@ -4,12 +4,16 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
+import java.security.PrivateKey;
+import java.security.interfaces.RSAPrivateKey;
 
 import org.apache.log4j.Logger;
 
 import signer.FileSigner;
 import signer.FileSignerImpl;
 import swing.ui.FileInterface;
+import util.Const;
+import util.FileWorker;
 import util.SecurityGenerator;
 import util.SelfSignedCertificateGeneration;
 
@@ -19,22 +23,31 @@ public class SignProcessor {
 
 	private static File file;
 	private static FileSigner signer;
-	
+
 	public static void main(String[] args) {
+		String fileName = "info.txt";
 		logger.debug("======= START Sign processor main method =========");
-		FileInterface view = new FileInterface();
-		view.setVisible(true);
-//		FileInterface.showAllFilesInDir(ROOT_FILE_DIR);
+		FileWorker.showSignAttribute(Const.ROOT_FILE_DIR + fileName);
+		FileWorker.setSignAttrToFile(Const.ROOT_FILE_DIR + fileName, "securiy message");
+		FileWorker.showSignAttribute(Const.ROOT_FILE_DIR + fileName);
+
+		
+//		FileInterface view = new FileInterface();
+//		view.setVisible(true);
+
+//		SecurityGenerator.genKeyPairRSA();
+
+		// FileInterface.showAllFilesInDir(ROOT_FILE_DIR);
 //		FileInterface.fileDownloadDialog(ROOT_FILE_DIR);
 //		FileInterface.showAllFilesInDir(ROOT_FILE_DIR);
 //		KeyGeneratorCusom.loadCertificate();
 //		SelfSignedCertificateGeneration.genCerteficate(); 
-//		KeyGenerator generator = new KeyGenerator();
+//		SecurityGenerator generator = new SecurityGenerator();
 //		generator.init();
 
 //		testCreationFile();
 //		logger.debug("test file created");
-		
+
 //		init(filePath);
 //		logger.debug("INIT success");
 
@@ -43,7 +56,7 @@ public class SignProcessor {
 
 //		String isValidSign = signer.fileValidator(file);
 //		logger.debug("file is valid: " + isValidSign);
-		
+
 		logger.debug("======== END Sign processor main method =========");
 	}
 

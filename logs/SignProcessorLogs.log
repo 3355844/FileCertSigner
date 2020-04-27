@@ -1651,3 +1651,1143 @@
 2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
 2020-04-23 20:47:19 DEBUG FileWorker:33 - File Name: info.txt
 2020-04-23 20:47:19 DEBUG FileInterface:130 - get files table from dir
+2020-04-26 13:08:34 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 13:08:35 DEBUG FileInterface:126 - get files table from dir
+2020-04-26 13:08:35 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 13:08:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 13:08:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 13:08:35 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 13:08:35 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-26 13:08:35 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-26 13:08:35 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 13:08:35 DEBUG FileInterface:130 - get files table from dir
+2020-04-26 13:08:35 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 13:16:06 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 13:16:07 DEBUG FileInterface:128 - get files table from dir
+2020-04-26 13:16:07 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 13:16:07 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 13:16:07 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 13:16:07 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 13:16:07 DEBUG FileWorker:33 - File Name: TestFileForDownload.txt
+2020-04-26 13:16:07 DEBUG FileWorker:33 - File Name: TestFileForDownload (copy).txt
+2020-04-26 13:16:07 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 13:16:07 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 13:16:07 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 13:16:44 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 13:16:44 DEBUG FileInterface:128 - get files table from dir
+2020-04-26 13:16:44 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 13:16:44 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 13:16:44 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 13:16:44 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 13:16:44 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 13:16:46 DEBUG FileInterface:197 - begin file download dialog
+2020-04-26 13:16:54 DEBUG FileWorker:15 - Begin write file
+2020-04-26 13:16:54 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (3rd copy).txt
+2020-04-26 13:16:54 DEBUG FileWorker:26 - End write file
+2020-04-26 13:16:54 DEBUG FileInterface:214 - File downloaded successful, file name:TestFileForDownload (3rd copy).txt
+2020-04-26 13:16:54 DEBUG FileInterface:206 - End file download dialog
+2020-04-26 13:16:54 DEBUG FileInterface:128 - get files table from dir
+2020-04-26 13:16:54 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 13:16:54 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 13:16:54 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 13:16:54 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 13:16:54 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 13:31:57 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 13:31:57 DEBUG FileInterface:128 - get files table from dir
+2020-04-26 13:31:57 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 13:31:57 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 13:31:57 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 13:31:57 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 13:33:11 DEBUG FileInterface:139 - get files table from dir
+2020-04-26 13:33:11 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:03:25 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:03:25 DEBUG FileInterface:128 - get files table from dir
+2020-04-26 14:03:25 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:03:25 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:03:25 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:03:25 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:03:25 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:03:25 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:03:56 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:03:56 DEBUG FileInterface:128 - get files table from dir
+2020-04-26 14:03:56 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:03:56 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:03:56 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:03:56 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:03:56 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:03:56 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:04:01 DEBUG FileInterface:197 - begin file download dialog
+2020-04-26 14:04:06 DEBUG FileWorker:15 - Begin write file
+2020-04-26 14:04:06 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (another copy).txt
+2020-04-26 14:04:06 DEBUG FileWorker:26 - End write file
+2020-04-26 14:04:06 DEBUG FileInterface:214 - File downloaded successful, file name:TestFileForDownload (another copy).txt
+2020-04-26 14:04:06 DEBUG FileInterface:206 - End file download dialog
+2020-04-26 14:04:06 DEBUG FileInterface:128 - get files table from dir
+2020-04-26 14:04:06 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:04:06 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:04:06 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:04:06 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:04:06 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:04:06 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:05:30 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:05:30 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:05:30 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:05:30 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:05:30 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:05:30 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:05:30 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:05:30 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:05:30 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:05:34 DEBUG FileInterface:197 - begin file download dialog
+2020-04-26 14:05:43 DEBUG FileWorker:15 - Begin write file
+2020-04-26 14:05:43 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (5th copy).txt
+2020-04-26 14:05:43 DEBUG FileWorker:26 - End write file
+2020-04-26 14:05:43 DEBUG FileInterface:214 - File downloaded successful, file name:TestFileForDownload (5th copy).txt
+2020-04-26 14:05:43 DEBUG FileInterface:206 - End file download dialog
+2020-04-26 14:05:43 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:05:43 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:05:43 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:05:43 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:05:43 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:05:43 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:05:43 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:05:43 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:08:20 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:08:20 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:08:20 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:08:20 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:08:20 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:08:20 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:08:20 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:08:20 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:08:20 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:08:20 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:09:47 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:09:47 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:09:47 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:09:47 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:09:47 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:09:47 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:09:47 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:09:47 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:09:47 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:09:48 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:11:27 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:11:27 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:11:27 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:11:27 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:11:27 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:11:27 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:11:27 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:11:27 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:11:27 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:11:27 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:11:37 DEBUG FileInterface:197 - begin file download dialog
+2020-04-26 14:11:46 DEBUG FileWorker:15 - Begin write file
+2020-04-26 14:11:46 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (4th copy).txt
+2020-04-26 14:11:46 DEBUG FileWorker:26 - End write file
+2020-04-26 14:11:46 DEBUG FileInterface:214 - File downloaded successful, file name:TestFileForDownload (4th copy).txt
+2020-04-26 14:11:46 DEBUG FileInterface:206 - End file download dialog
+2020-04-26 14:11:46 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:11:46 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:11:46 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:11:46 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:11:46 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 14:11:46 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:11:46 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:11:46 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:11:46 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:18:12 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:18:12 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:18:12 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:18:12 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:18:12 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:18:12 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 14:18:12 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:18:12 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:18:12 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:18:12 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:18:12 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:18:14 DEBUG ButtonColumn:69 - test_excel.ods : 0
+2020-04-26 14:18:16 DEBUG ButtonColumn:69 - TestFileForDownload (3rd copy).txt : 1
+2020-04-26 14:18:17 DEBUG ButtonColumn:69 - TestFileForDownload (another copy).txt : 2
+2020-04-26 14:18:17 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 14:18:18 DEBUG ButtonColumn:69 - text.txt : 4
+2020-04-26 14:18:18 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 14:18:19 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 14:18:33 DEBUG ButtonColumn:69 - TestFileForDownload (another copy).txt : 2
+2020-04-26 14:18:33 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 14:18:34 DEBUG ButtonColumn:69 - text.txt : 4
+2020-04-26 14:18:34 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 14:18:35 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 14:18:36 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 14:18:36 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 14:18:36 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 14:18:37 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 14:18:56 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 14:19:19 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 14:19:19 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:19:19 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:19:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:19:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:19:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 14:19:19 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:19:19 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:19:19 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:19:19 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:19:19 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 14:19:45 DEBUG ButtonColumn:69 - test_excel.ods : 0
+2020-04-26 14:19:45 DEBUG ButtonColumn:69 - TestFileForDownload (3rd copy).txt : 1
+2020-04-26 14:19:46 DEBUG ButtonColumn:69 - TestFileForDownload (another copy).txt : 2
+2020-04-26 14:19:51 DEBUG FileInterface:197 - begin file download dialog
+2020-04-26 14:20:13 DEBUG FileWorker:15 - Begin write file
+2020-04-26 14:20:13 DEBUG FileWorker:22 - successful writed file :TestFileForDownload (another copy).txt
+2020-04-26 14:20:13 DEBUG FileWorker:26 - End write file
+2020-04-26 14:20:13 DEBUG FileInterface:214 - File downloaded successful, file name:TestFileForDownload (another copy).txt
+2020-04-26 14:20:13 DEBUG FileInterface:206 - End file download dialog
+2020-04-26 14:20:13 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 14:20:13 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 14:20:13 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 14:20:13 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 14:20:13 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 14:20:13 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 14:20:13 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 14:20:13 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 14:20:13 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 14:20:23 DEBUG ButtonColumn:69 - test_excel.ods : 0
+2020-04-26 14:20:23 DEBUG ButtonColumn:69 - TestFileForDownload (another copy).txt : 2
+2020-04-26 14:20:24 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 14:20:24 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 14:20:24 DEBUG ButtonColumn:69 - text.txt : 4
+2020-04-26 14:20:25 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 14:20:25 DEBUG ButtonColumn:69 - text.txt : 4
+2020-04-26 14:20:26 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 14:20:26 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 14:20:41 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 22:29:49 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 22:29:49 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 22:29:49 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 22:29:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 22:29:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 22:29:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 22:29:49 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 22:29:49 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 22:29:49 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 22:29:49 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 22:29:49 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 22:29:51 DEBUG ButtonColumn:69 - TestFileForDownload (3rd copy).txt : 1
+2020-04-26 22:29:54 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 22:29:55 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 22:29:56 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 22:29:57 DEBUG ButtonColumn:69 - text.txt : 4
+2020-04-26 22:29:57 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 22:29:58 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 22:30:00 DEBUG ButtonColumn:69 - TestFileForDownload (another copy).txt : 2
+2020-04-26 22:30:01 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 22:30:04 DEBUG ButtonColumn:69 - test_excel.ods : 0
+2020-04-26 22:37:47 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 22:37:48 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 22:37:48 DEBUG FileWorker:33 - File Name: test_excel.ods
+2020-04-26 22:37:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 22:37:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 22:37:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 22:37:48 DEBUG FileWorker:33 - File Name: text.txt
+2020-04-26 22:37:48 DEBUG FileWorker:33 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 22:37:48 DEBUG FileWorker:33 - File Name: info.txt
+2020-04-26 22:37:48 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 22:37:48 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 22:38:02 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 22:38:06 DEBUG ButtonColumn:69 - info.txt : 6
+2020-04-26 22:38:08 DEBUG ButtonColumn:69 - TestFileForDownload (another copy).txt : 2
+2020-04-26 22:38:09 DEBUG ButtonColumn:69 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 22:38:09 DEBUG ButtonColumn:69 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 22:57:53 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 22:57:53 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 22:57:53 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-26 22:57:53 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 22:57:53 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 22:57:53 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 22:57:53 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-26 22:57:53 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 22:57:53 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-26 22:57:53 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 22:57:53 DEBUG SignProcessor:47 - ======== END Sign processor main method =========
+2020-04-26 22:58:01 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-26 22:58:01 DEBUG SecurityGenerator:35 - Signing file: test_excel.ods
+2020-04-26 22:58:06 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-26 22:58:07 DEBUG SecurityGenerator:35 - Signing file: info.txt
+2020-04-26 22:58:07 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 22:58:07 DEBUG SecurityGenerator:35 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-26 22:58:08 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 22:58:08 DEBUG SecurityGenerator:35 - Signing file: TestFileForDownload (4th copy).txt
+2020-04-26 22:58:25 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-26 22:58:25 DEBUG SecurityGenerator:35 - Signing file: info.txt
+2020-04-26 23:30:43 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 23:30:43 DEBUG SecurityGenerator:95 - Begin generate Key Pair
+2020-04-26 23:30:43 DEBUG SecurityGenerator:102 - SunRsaSign RSA private CRT key, 2048 bits
+  params: null
+  modulus: 20298247099424585662226960709969110524223287381615109944628227982843333568936507542847993090363967984525807486192074530584842595610378889825116028794138258434166835845290710787693024413290938428599061545434266345533030485717526674741439483795099703130652562164432984960824453537271545975071184624527548852401667769211178029340252885639756629273778799743872746311647063544515622292047762937925736347364716674622780655732543373576467155218152598029483407394155431042140699934396040286472321441748900517501399977291558385157284572338554531298868442235768089595999893310112916578365631974910935065268352741858100590623029
+  private exponent: 16630210106603959634216006658240099798398541170154900489294109790054319737712694142326931977264795412684875828365614078234013432545030808707596930742518877097885989347651546836663094936406055327299052605712002336955468497186579753018399555104659710696206092327342794062689903538920890330431240173175186659151924769962193132188757052093783701488476685609285343202697070151815282381291419716234982600855864762943522112716933905868997239855767782029367942617723925107940939313896262636653857950304677385630653789918421015591607022088696809778875139134269337476650040629702079161115716749460636342450885299912997315377985
+2020-04-26 23:30:43 DEBUG SecurityGenerator:103 - Sun RSA public key, 2048 bits
+  params: null
+  modulus: 20298247099424585662226960709969110524223287381615109944628227982843333568936507542847993090363967984525807486192074530584842595610378889825116028794138258434166835845290710787693024413290938428599061545434266345533030485717526674741439483795099703130652562164432984960824453537271545975071184624527548852401667769211178029340252885639756629273778799743872746311647063544515622292047762937925736347364716674622780655732543373576467155218152598029483407394155431042140699934396040286472321441748900517501399977291558385157284572338554531298868442235768089595999893310112916578365631974910935065268352741858100590623029
+  public exponent: 65537
+2020-04-26 23:30:43 DEBUG FileWorker:21 - Begin write file
+2020-04-26 23:30:43 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-26 23:30:43 DEBUG FileWorker:32 - End write file
+2020-04-26 23:30:43 DEBUG FileWorker:21 - Begin write file
+2020-04-26 23:30:43 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-26 23:30:43 DEBUG FileWorker:32 - End write file
+2020-04-26 23:30:43 DEBUG SecurityGenerator:106 - Genereted key Pair Done
+2020-04-26 23:30:43 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-26 23:31:51 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 23:31:51 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 23:31:51 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-26 23:31:51 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 23:31:51 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 23:31:51 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 23:31:51 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-26 23:31:51 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 23:31:51 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-26 23:31:51 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 23:31:51 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-26 23:31:53 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-26 23:31:53 DEBUG SecurityGenerator:42 - Signing file: TestFileForDownload (4th copy).txt
+2020-04-26 23:31:53 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-26 23:34:47 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 23:34:47 DEBUG SecurityGenerator:95 - Begin generate Key Pair
+2020-04-26 23:34:47 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-26 23:35:16 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 23:35:16 DEBUG SecurityGenerator:95 - Begin generate Key Pair
+2020-04-26 23:35:16 DEBUG SecurityGenerator:102 - SunRsaSign RSA private CRT key, 2048 bits
+  params: null
+  modulus: 21103062585661943627828945107024826216272724863908659411032836892394218819007670541399284570053521898895085337202637175010659340906740070203147347724347240995145786875751419055227651938145556090295170275354757506895016290312823642051731648291781665007273367605372113463871490869079854678245373232821051590598537345198197427178757868182327659644155906964089655541179064359590251408288675873167005114213784424073566237150795008139794941499761463755213496848085703506259046313045861944872279454888197138920661288642859537667532560989946836381178961291390582003319787949312285799727271668938086726556241861760115737058701
+  private exponent: 8394921108241032276746394065722328521055986846010080710210065926447803207811602280922543723787560758443227029406441457340172721924708490932850977349000670155552524675186768484807667633236077220960455685319344537623937160760267103650315025140226738917018233468722345699629120015377281403123962426612106688107280417323336628373397066922000238132030730059843703043649575035755302657382484514988064884004508641805177931137885291691365433844440734575704445194764023310561015195065045152032624464949169858087007220756631937319996735824457283043909161786552880133648819958867777703693598826850567507725257028222283602284773
+2020-04-26 23:35:16 DEBUG SecurityGenerator:103 - Sun RSA public key, 2048 bits
+  params: null
+  modulus: 21103062585661943627828945107024826216272724863908659411032836892394218819007670541399284570053521898895085337202637175010659340906740070203147347724347240995145786875751419055227651938145556090295170275354757506895016290312823642051731648291781665007273367605372113463871490869079854678245373232821051590598537345198197427178757868182327659644155906964089655541179064359590251408288675873167005114213784424073566237150795008139794941499761463755213496848085703506259046313045861944872279454888197138920661288642859537667532560989946836381178961291390582003319787949312285799727271668938086726556241861760115737058701
+  public exponent: 65537
+2020-04-26 23:35:16 DEBUG FileWorker:21 - Begin write file
+2020-04-26 23:35:16 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-26 23:35:16 DEBUG FileWorker:32 - End write file
+2020-04-26 23:35:16 DEBUG FileWorker:21 - Begin write file
+2020-04-26 23:35:16 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-26 23:35:16 DEBUG FileWorker:32 - End write file
+2020-04-26 23:35:16 DEBUG SecurityGenerator:106 - Genereted key Pair Done
+2020-04-26 23:35:16 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-26 23:35:55 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 23:35:55 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 23:35:55 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-26 23:35:55 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 23:35:55 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 23:35:55 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 23:35:55 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-26 23:35:55 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 23:35:55 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-26 23:35:55 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 23:35:55 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-26 23:35:56 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-26 23:35:56 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-26 23:35:56 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-26 23:35:59 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 23:35:59 DEBUG SecurityGenerator:42 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-26 23:35:59 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-26 23:37:40 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 23:37:40 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 23:37:40 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-26 23:37:40 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 23:37:40 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 23:37:40 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 23:37:40 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-26 23:37:40 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 23:37:40 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-26 23:37:40 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 23:37:40 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-26 23:37:41 DEBUG ButtonColumn:71 - TestFileForDownload (3rd copy).txt : 1
+2020-04-26 23:37:41 DEBUG SecurityGenerator:42 - Signing file: TestFileForDownload (3rd copy).txt
+2020-04-26 23:37:41 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-26 23:37:49 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-26 23:37:49 DEBUG SecurityGenerator:42 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-26 23:37:49 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-26 23:38:00 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-26 23:38:00 DEBUG SecurityGenerator:42 - Signing file: test_excel.ods
+2020-04-26 23:38:00 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-26 23:38:11 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-26 23:38:11 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-26 23:38:11 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-26 23:39:50 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-26 23:39:50 DEBUG FileInterface:127 - get files table from dir
+2020-04-26 23:39:50 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-26 23:39:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-26 23:39:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-26 23:39:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-26 23:39:50 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-26 23:39:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-26 23:39:50 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-26 23:39:50 DEBUG FileInterface:132 - get files table from dir
+2020-04-26 23:39:50 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-26 23:39:53 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-26 23:39:53 DEBUG SecurityGenerator:42 - Signing file: test_excel.ods
+2020-04-26 23:39:53 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:06:21 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 00:06:21 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 00:06:21 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 00:06:21 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 00:06:21 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 00:06:21 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 00:06:21 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 00:06:21 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 00:06:21 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 00:06:21 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 00:06:21 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 00:06:26 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 00:06:26 DEBUG SecurityGenerator:42 - Signing file: TestFileForDownload (another copy).txt
+2020-04-27 00:06:26 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:06:26 DEBUG ButtonColumn:72 - Sign result :meTYoIKS3DfrsvBDh432wOP8UsthC84fd+Gt7o/BrCQd3dz+YBvIiDB7McuX6jelEt1TfSRjseYoBSCScDnQ3oN2Xn0LYSuRUDPcFTvBjo3a/10gQjt0kQ3hmmvFsg2G84meoygvx8vbvsoFJ+ybsIwo35wGtxPP9ScythrmnSZ0eUhyoPvNCxYgvACH0qtG73VIcucFsZcAOpeApaIubn/8mkzU9Lmcs3svUVRxLVVvFHnB6bi4jvNutOgoQk7TdB7vIFYr0EMuZAxyoh4U8XF8Y/zuwZNiL2yOeNjta4tucv1ILILBnmSm+ef22twgyJiX+dt4N6oz5nev4K08+Q==
+2020-04-27 00:06:56 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 00:06:56 DEBUG SecurityGenerator:42 - Signing file: TestFileForDownload (another copy).txt
+2020-04-27 00:06:56 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:06:56 DEBUG ButtonColumn:72 - Sign result :meTYoIKS3DfrsvBDh432wOP8UsthC84fd+Gt7o/BrCQd3dz+YBvIiDB7McuX6jelEt1TfSRjseYoBSCScDnQ3oN2Xn0LYSuRUDPcFTvBjo3a/10gQjt0kQ3hmmvFsg2G84meoygvx8vbvsoFJ+ybsIwo35wGtxPP9ScythrmnSZ0eUhyoPvNCxYgvACH0qtG73VIcucFsZcAOpeApaIubn/8mkzU9Lmcs3svUVRxLVVvFHnB6bi4jvNutOgoQk7TdB7vIFYr0EMuZAxyoh4U8XF8Y/zuwZNiL2yOeNjta4tucv1ILILBnmSm+ef22twgyJiX+dt4N6oz5nev4K08+Q==
+2020-04-27 00:07:05 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 00:07:05 DEBUG SecurityGenerator:42 - Signing file: text.txt
+2020-04-27 00:07:05 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:07:05 DEBUG ButtonColumn:72 - Sign result :meTYoIKS3DfrsvBDh432wOP8UsthC84fd+Gt7o/BrCQd3dz+YBvIiDB7McuX6jelEt1TfSRjseYoBSCScDnQ3oN2Xn0LYSuRUDPcFTvBjo3a/10gQjt0kQ3hmmvFsg2G84meoygvx8vbvsoFJ+ybsIwo35wGtxPP9ScythrmnSZ0eUhyoPvNCxYgvACH0qtG73VIcucFsZcAOpeApaIubn/8mkzU9Lmcs3svUVRxLVVvFHnB6bi4jvNutOgoQk7TdB7vIFYr0EMuZAxyoh4U8XF8Y/zuwZNiL2yOeNjta4tucv1ILILBnmSm+ef22twgyJiX+dt4N6oz5nev4K08+Q==
+2020-04-27 00:07:14 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-27 00:07:14 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 00:07:14 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:07:14 DEBUG ButtonColumn:72 - Sign result :lEJJWSkjMRWx7DgwYFb5tXZpCtf5tLD0t0j14x1jVfxQE9fNPyhIkIhikhEdcSnyYJTsfgxt2pF96ow/klltcJ9xgBdU9DpXeDtAN4PKcp0igGCIBOuXGE3yI/uiDXyH82Eoa6ff5m5Lk0dcpwHl+lABpViBoY/yUCL5FUGTGKKxBh1wA7Cl6vJNIS2TEYnNQxf6ZGQzDq9AHvN4on8UnNnCroXf7tIa2oxEyCg7d0hrwC08C8VGAmfPV5COg5BSmfxTQNZEPcGYAEKwLgrj4K74a25F9ymu9Xlgo+n5T9zPUIVaIJ3PgWiV6riwx+4GzjG5tW6IA/2DpOM3ArREvg==
+2020-04-27 00:07:25 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 00:07:25 DEBUG SecurityGenerator:42 - Signing file: TestFileForDownload (another copy).txt
+2020-04-27 00:07:25 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:07:25 DEBUG ButtonColumn:72 - Sign result :meTYoIKS3DfrsvBDh432wOP8UsthC84fd+Gt7o/BrCQd3dz+YBvIiDB7McuX6jelEt1TfSRjseYoBSCScDnQ3oN2Xn0LYSuRUDPcFTvBjo3a/10gQjt0kQ3hmmvFsg2G84meoygvx8vbvsoFJ+ybsIwo35wGtxPP9ScythrmnSZ0eUhyoPvNCxYgvACH0qtG73VIcucFsZcAOpeApaIubn/8mkzU9Lmcs3svUVRxLVVvFHnB6bi4jvNutOgoQk7TdB7vIFYr0EMuZAxyoh4U8XF8Y/zuwZNiL2yOeNjta4tucv1ILILBnmSm+ef22twgyJiX+dt4N6oz5nev4K08+Q==
+2020-04-27 00:07:29 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 00:07:29 DEBUG SecurityGenerator:42 - Signing file: text.txt
+2020-04-27 00:07:29 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:07:29 DEBUG ButtonColumn:72 - Sign result :meTYoIKS3DfrsvBDh432wOP8UsthC84fd+Gt7o/BrCQd3dz+YBvIiDB7McuX6jelEt1TfSRjseYoBSCScDnQ3oN2Xn0LYSuRUDPcFTvBjo3a/10gQjt0kQ3hmmvFsg2G84meoygvx8vbvsoFJ+ybsIwo35wGtxPP9ScythrmnSZ0eUhyoPvNCxYgvACH0qtG73VIcucFsZcAOpeApaIubn/8mkzU9Lmcs3svUVRxLVVvFHnB6bi4jvNutOgoQk7TdB7vIFYr0EMuZAxyoh4U8XF8Y/zuwZNiL2yOeNjta4tucv1ILILBnmSm+ef22twgyJiX+dt4N6oz5nev4K08+Q==
+2020-04-27 00:07:34 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 00:07:34 DEBUG SecurityGenerator:42 - Signing file: test_excel.ods
+2020-04-27 00:07:34 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 00:07:34 DEBUG ButtonColumn:72 - Sign result :MlPludhUhsp62jKdbUR7zkwVt1q0I+754+VJSpGX1yqSvzbE7YTq2ZLTcqeqJK5uieBCJIEx13GQ+Yx+tS13zv/aeM0Az8T3NUsLfLtmL8kV3cPl4YknJvkLoxKHhJtTx5okAWyXgsG91bOuNKr7Xib98NydOOzaf6nWHZv+FD3FdoWa7K2bGfWpk8TWemH5Wn0pd5nAlPCCmcQrYOtqw+b2q2Q02vQWzF80vul7l7Kcg5ilzLlwuiDxEIAe5qDLUzknvwh7AKzZJXNl8n0dFE37bFnPDTNcR+KycZ4BuRM7lWbjlvnq7aYGSf2oyHNxM4Gvkv1a0ST8P/Su3+DPxw==
+2020-04-27 11:57:38 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 11:57:39 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 11:57:39 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 11:57:39 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 11:57:39 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 11:57:39 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 11:57:39 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 11:57:39 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 11:57:39 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 11:57:39 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 11:57:39 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 11:57:42 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 11:57:42 DEBUG SecurityGenerator:62 - Verify file: test_excel.ods
+2020-04-27 11:57:42 DEBUG SecurityGenerator:63 - Public Key nametestPublicKey
+2020-04-27 11:57:42 DEBUG SecurityGenerator:73 - Verify complete :null
+2020-04-27 11:57:42 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:13:18 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:13:18 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:13:18 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:13:18 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:13:18 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:13:18 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:13:18 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:13:18 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:13:18 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:13:18 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:13:18 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:13:20 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 12:13:20 DEBUG SecurityGenerator:64 - Verify file: test_excel.ods
+2020-04-27 12:13:20 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:13:20 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:13:20 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:13:21 DEBUG ButtonColumn:71 - TestFileForDownload (3rd copy).txt : 1
+2020-04-27 12:13:21 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (3rd copy).txt
+2020-04-27 12:13:21 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:13:22 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:13:22 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:13:23 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 12:13:23 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (another copy).txt
+2020-04-27 12:13:23 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:13:23 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:13:23 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:13:25 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:13:25 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:13:25 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:13:25 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:13:25 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:14:01 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 12:14:01 DEBUG SecurityGenerator:64 - Verify file: test_excel.ods
+2020-04-27 12:14:01 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:14:01 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:14:01 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:14:05 DEBUG ButtonColumn:71 - TestFileForDownload (3rd copy).txt : 1
+2020-04-27 12:14:05 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (3rd copy).txt
+2020-04-27 12:14:05 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:14:05 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:14:05 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:14:11 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:14:11 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:14:11 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:14:11 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:14:11 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:18:11 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:18:11 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:18:11 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:18:11 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:18:11 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:18:11 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:18:11 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:18:11 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:18:11 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:18:11 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:18:11 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:18:13 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 12:18:13 DEBUG SecurityGenerator:64 - Verify file: text.txt
+2020-04-27 12:18:13 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:18:13 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:18:13 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:18:18 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:18:18 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:18:18 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:18:18 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:18:18 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:18:19 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 12:18:19 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (another copy).txt
+2020-04-27 12:18:19 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:18:19 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:18:19 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:18:20 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:18:20 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:18:20 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:18:20 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:18:20 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:18:20 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 12:18:20 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (another copy).txt
+2020-04-27 12:18:20 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:18:20 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:18:20 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:18:20 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 12:18:20 DEBUG SecurityGenerator:64 - Verify file: test_excel.ods
+2020-04-27 12:18:20 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:18:20 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:18:20 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:18:21 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 12:18:21 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (another copy).txt
+2020-04-27 12:18:21 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:18:21 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:18:21 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:22:19 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:22:20 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:22:20 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:22:20 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:22:20 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:22:20 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:22:20 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:22:20 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:22:20 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:22:20 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:22:20 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:22:21 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:22:21 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:22:21 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:22:21 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:22:21 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:22:31 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-27 12:22:31 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 12:22:31 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:22:31 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:22:31 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:22:32 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 12:22:32 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (5th copy).txt
+2020-04-27 12:22:32 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:22:32 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:22:32 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:22:32 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 12:22:32 DEBUG SecurityGenerator:64 - Verify file: text.txt
+2020-04-27 12:22:32 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:22:32 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:22:32 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:23:00 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:23:01 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:23:01 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:23:01 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:23:01 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:23:01 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:23:01 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:23:01 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:23:01 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:23:01 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:23:01 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:23:04 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 12:23:04 DEBUG SecurityGenerator:64 - Verify file: TestFileForDownload (5th copy).txt
+2020-04-27 12:23:04 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 12:23:04 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 12:23:04 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:24:31 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:24:31 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:24:31 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:24:31 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:24:31 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:24:31 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:24:31 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:24:31 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:24:31 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:24:31 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:24:31 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:24:33 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:24:33 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:24:33 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:24:33 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:24:33 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:27:30 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:27:30 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:27:30 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:27:30 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:27:30 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:27:30 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:27:30 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:27:30 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:27:30 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:27:30 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:27:30 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:27:31 DEBUG ButtonColumn:71 - TestFileForDownload (3rd copy).txt : 1
+2020-04-27 12:27:31 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (3rd copy).txt
+2020-04-27 12:27:31 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:27:31 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:27:31 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:27:49 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:27:50 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:27:50 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:27:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:27:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:27:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:27:50 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:27:50 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:27:50 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:27:50 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:27:50 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:27:51 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 12:27:51 DEBUG SecurityGenerator:65 - Verify file: text.txt
+2020-04-27 12:27:51 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:27:51 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:27:51 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:27:58 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 12:27:58 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (another copy).txt
+2020-04-27 12:27:58 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:27:58 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:27:58 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:27:59 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:27:59 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:27:59 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:27:59 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:27:59 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:28:08 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-27 12:28:08 DEBUG SecurityGenerator:65 - Verify file: info.txt
+2020-04-27 12:28:08 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:28:08 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:28:08 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:28:09 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 12:28:09 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (5th copy).txt
+2020-04-27 12:28:09 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:28:09 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:28:09 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:28:09 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 12:28:09 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (5th copy).txt
+2020-04-27 12:28:09 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:28:09 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:28:09 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:37:37 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:37:37 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 12:37:37 DEBUG SecurityGenerator:142 - SunRsaSign RSA private CRT key, 2048 bits
+  params: null
+  modulus: 16486114117562191630759998343221053625392459775334283799060232283259171571184180681513957506224451766334565854741633672402791099886806480379935832218779253455501085220909060708174272852967342107506655034077659955616911376633816197267365262967206594778279127439804509071250737257582608467905294939285398311809400042535546394738756226194731435346060877176064141481133689458817827690266121608124431401651576763250361638274245246680171212207726920115194335906049075906056554660002268157149064195945926967051537815814603220800992484861419246064431383153481241186332255112451547455342858531177845447388886324152909719429569
+  private exponent: 629388857014214923785976102884463374440879722262025696404301404896691140441320476450675521927668009206541095389834253144815651188134791246328020083485446269216834997371171550297572831806831102323598133806282027083227982122126556381325783724368690970524350776727510897603938914177818429081267801975861979891457640936304232072139936805151033413560500677687655892531160729959120654078455243741388052357936216415450237297750610675400021562926423248036956726460721452389131283898541961394292739946847311341715392294813812781219311305637742346106850255751008682559619460954870306390553947782072374840032424900883187391513
+2020-04-27 12:37:37 DEBUG SecurityGenerator:143 - Sun RSA public key, 2048 bits
+  params: null
+  modulus: 16486114117562191630759998343221053625392459775334283799060232283259171571184180681513957506224451766334565854741633672402791099886806480379935832218779253455501085220909060708174272852967342107506655034077659955616911376633816197267365262967206594778279127439804509071250737257582608467905294939285398311809400042535546394738756226194731435346060877176064141481133689458817827690266121608124431401651576763250361638274245246680171212207726920115194335906049075906056554660002268157149064195945926967051537815814603220800992484861419246064431383153481241186332255112451547455342858531177845447388886324152909719429569
+  public exponent: 65537
+2020-04-27 12:37:37 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:37:37 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 12:37:37 DEBUG FileWorker:32 - End write file
+2020-04-27 12:37:37 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:37:37 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 12:37:37 DEBUG FileWorker:32 - End write file
+2020-04-27 12:37:37 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 12:37:37 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:38:54 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:38:54 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:38:54 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:38:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:38:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:38:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:38:54 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:38:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:38:54 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:38:54 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:38:54 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:38:55 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 12:38:55 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (4th copy).txt
+2020-04-27 12:38:55 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:38:55 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:38:55 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:42:31 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:42:31 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 12:42:31 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:42:59 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:42:59 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 12:43:00 DEBUG SecurityGenerator:142 - SunRsaSign RSA private CRT key, 2048 bits
+  params: null
+  modulus: 19911062976662252591323961700021262367441801827660542579760522341904736356712500250623804793238925058388315592292032618383718166172337612221514245552900280015486345226453811748194665125967954111345073767485459853049016930079785555347668369713781940728607463132335008802602218259163777024575747630806112541135163378304025051570631297843980233707226258278046599825751756594191818849392385307402820219746516534444173682214680515787565837292657549286674585756649046840471320432092609407192716674945055116749689353342115802978277602382742675497694633997809464897449841469852311486616100999638716648788949079681359229047839
+  private exponent: 4242459731237494776771103364192698898316330023062572540454642934256339754415572172966580864744928048512053327597631009706123876168126743931843461325674039247085635972690251724244172052718563730576965837453148013915444289662848856293007631028018539456097694663776585179662440694126416869419957274769619535901971067443138756539766301490489491893073084888712200818068479141942622628207921928063305725391936521643072393983882071076909968026934418835728892512463602980551060875151460350176059735983149816553947063149633515899589845512655732370910764890310046093466943896182223733297511197401447462209000722948744184231105
+2020-04-27 12:43:00 DEBUG SecurityGenerator:143 - Sun RSA public key, 2048 bits
+  params: null
+  modulus: 19911062976662252591323961700021262367441801827660542579760522341904736356712500250623804793238925058388315592292032618383718166172337612221514245552900280015486345226453811748194665125967954111345073767485459853049016930079785555347668369713781940728607463132335008802602218259163777024575747630806112541135163378304025051570631297843980233707226258278046599825751756594191818849392385307402820219746516534444173682214680515787565837292657549286674585756649046840471320432092609407192716674945055116749689353342115802978277602382742675497694633997809464897449841469852311486616100999638716648788949079681359229047839
+  public exponent: 65537
+2020-04-27 12:43:00 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:43:00 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 12:43:00 DEBUG FileWorker:32 - End write file
+2020-04-27 12:43:00 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:43:00 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 12:43:00 DEBUG FileWorker:32 - End write file
+2020-04-27 12:43:00 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 12:43:00 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:43:47 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:43:47 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:43:47 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:43:47 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:43:47 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:43:47 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:43:47 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:43:47 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:43:47 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:43:47 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:43:47 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:43:50 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 12:43:50 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (5th copy).txt
+2020-04-27 12:43:50 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:43:50 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:43:50 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:44:49 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:44:49 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:44:49 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:44:49 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:44:49 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:44:49 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:44:49 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:44:49 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:44:49 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:44:49 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:44:49 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:44:53 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 12:44:53 DEBUG SecurityGenerator:65 - Verify file: TestFileForDownload (another copy).txt
+2020-04-27 12:44:53 DEBUG SecurityGenerator:66 - Public Key name: testPublicKey
+2020-04-27 12:44:54 DEBUG SecurityGenerator:76 - Verify complete :null
+2020-04-27 12:44:54 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 12:45:22 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:45:22 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:45:22 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:45:22 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:45:22 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:45:22 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:45:22 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:45:22 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:45:22 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:45:22 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:45:22 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:45:23 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 12:45:23 DEBUG SecurityGenerator:46 - Signing file: test_excel.ods
+2020-04-27 12:45:23 DEBUG SecurityGenerator:47 - private key name:testPrivateKey
+2020-04-27 12:45:23 DEBUG SecurityGenerator:58 - Sign complete
+2020-04-27 12:45:23 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 12:48:04 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:48:04 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:48:04 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:48:04 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:48:04 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:48:04 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:48:04 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:48:04 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:48:04 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:48:04 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:48:04 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:48:05 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-27 12:48:05 DEBUG SecurityGenerator:46 - Signing file: info.txt
+2020-04-27 12:48:05 DEBUG SecurityGenerator:47 - private key name:testPrivateKey
+2020-04-27 12:48:05 DEBUG SecurityGenerator:58 - Sign complete
+2020-04-27 12:48:05 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 12:57:35 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:57:35 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 12:57:35 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:57:52 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:57:52 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 12:57:52 DEBUG SecurityGenerator:142 - SunRsaSign RSA private CRT key, 2048 bits
+  params: null
+  modulus: 18943858029113238860866996365752082895080058053978042215586112345022469611110913164855521703333288918981555994197167190638249216645650427414518979066141410115878644293474548707513841647975668845948522129445830930405260709561194336559361264673500801446545158325464289765604077350504537071154129689810443304897105910212676050863568742053548897419046592170189446532438700356641091582048549155932428204228032715311079899096952802775346621105077410573024832198039031293541749210145623624626214353803887266895473484668003385148687443398660032371903100903847503508464846837260527472831536510852139196829346837889208355660251
+  private exponent: 17542514914153125001558770502786642031516756080349625463809841343165977359792334239619096947580663918154197655245615143089319113004987698389608043098479577010277538543520101416151296760211718061427435792208035664363105836436811619260129023174238829042973879085312148581484441618090084231979995677936219139278322890895232973061080124290814501069062529958725668672997184995070287976200306271465114432613203585229551101389090912204367446620243462224858129242945131341080436148159439306397637550105621552290653382080195742160744039496838757499741039639444093483020025954839644501972423411763059821988507493389434351596497
+2020-04-27 12:57:52 DEBUG SecurityGenerator:143 - Sun RSA public key, 2048 bits
+  params: null
+  modulus: 18943858029113238860866996365752082895080058053978042215586112345022469611110913164855521703333288918981555994197167190638249216645650427414518979066141410115878644293474548707513841647975668845948522129445830930405260709561194336559361264673500801446545158325464289765604077350504537071154129689810443304897105910212676050863568742053548897419046592170189446532438700356641091582048549155932428204228032715311079899096952802775346621105077410573024832198039031293541749210145623624626214353803887266895473484668003385148687443398660032371903100903847503508464846837260527472831536510852139196829346837889208355660251
+  public exponent: 65537
+2020-04-27 12:57:52 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:57:52 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 12:57:52 DEBUG FileWorker:32 - End write file
+2020-04-27 12:57:52 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:57:52 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 12:57:52 DEBUG FileWorker:32 - End write file
+2020-04-27 12:57:52 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 12:57:52 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:58:25 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:58:25 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 12:58:25 DEBUG SecurityGenerator:142 - SunRsaSign RSA private CRT key, 2048 bits
+  params: null
+  modulus: 16917715732024592156556829916784270039976958399632380458433009178793707684931815837330111500754604801968565875560992414866131820299094576865045222399966568172528573973218354760735939254989722842655260102446494831047768683541875625849373850723725667599859938602699681442086967939828040963209022618890280434229167235609887694669947661156862797599653664238496129983227251789675475137605035954726109500676717445864333583401877725205138709260958269973607897715814566684312731008012628488282408430008049100179031346792738918404372053250372656265811915613431825549846030156816632033113683913511671690663940178096312134828639
+  private exponent: 8634005799609785828773918400700115660269913599836797979663531409785512625507948858067660090723396963721907057690900000000419778042080295289762539536623309056968784254424741927191280654617105755806498384828843441324056932090652822951676262037573468486694773432480831365388754698619535317400127859591119668029574974730299936543929788018405514665715420112435929663649450986217431678673777815446792540860944981121965497692074622315167328118070582900173737875314047207846282820844433505305904433691893044667793223744468345919849143223223305446367772744590976279580270971579467077588456372628959303811036411071409559013713
+2020-04-27 12:58:25 DEBUG SecurityGenerator:143 - Sun RSA public key, 2048 bits
+  params: null
+  modulus: 16917715732024592156556829916784270039976958399632380458433009178793707684931815837330111500754604801968565875560992414866131820299094576865045222399966568172528573973218354760735939254989722842655260102446494831047768683541875625849373850723725667599859938602699681442086967939828040963209022618890280434229167235609887694669947661156862797599653664238496129983227251789675475137605035954726109500676717445864333583401877725205138709260958269973607897715814566684312731008012628488282408430008049100179031346792738918404372053250372656265811915613431825549846030156816632033113683913511671690663940178096312134828639
+  public exponent: 65537
+2020-04-27 12:58:25 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:58:25 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 12:58:25 DEBUG FileWorker:32 - End write file
+2020-04-27 12:58:25 DEBUG FileWorker:21 - Begin write file
+2020-04-27 12:58:25 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 12:58:25 DEBUG FileWorker:32 - End write file
+2020-04-27 12:58:25 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 12:58:25 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:59:24 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 12:59:24 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 12:59:24 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 12:59:24 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 12:59:24 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 12:59:24 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 12:59:24 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 12:59:24 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 12:59:24 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 12:59:24 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 12:59:24 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 12:59:25 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 12:59:25 DEBUG SecurityGenerator:46 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-27 12:59:25 DEBUG SecurityGenerator:47 - private key name:testPrivateKey
+2020-04-27 12:59:26 DEBUG SecurityGenerator:58 - Sign complete
+2020-04-27 12:59:26 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:00:42 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:00:42 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 13:00:43 DEBUG SecurityGenerator:142 - [B@3ecf72fd
+2020-04-27 13:00:43 DEBUG SecurityGenerator:143 - [B@483bf400
+2020-04-27 13:00:43 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:00:43 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:00:43 DEBUG FileWorker:32 - End write file
+2020-04-27 13:00:43 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:00:43 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:00:43 DEBUG FileWorker:32 - End write file
+2020-04-27 13:00:43 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 13:00:43 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:02:02 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:02:02 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 13:02:02 DEBUG SecurityGenerator:142 - [B@21a06946
+2020-04-27 13:02:02 DEBUG SecurityGenerator:143 - [B@77f03bb1
+2020-04-27 13:02:02 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:02:02 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:02:02 DEBUG FileWorker:32 - End write file
+2020-04-27 13:02:02 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:02:02 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:02:02 DEBUG FileWorker:32 - End write file
+2020-04-27 13:02:02 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 13:02:02 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:03:03 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:03:03 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 13:03:04 DEBUG SecurityGenerator:142 - [B@21a06946
+2020-04-27 13:03:04 DEBUG SecurityGenerator:143 - [B@77f03bb1
+2020-04-27 13:03:04 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:03:04 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:03:04 DEBUG FileWorker:32 - End write file
+2020-04-27 13:03:04 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:03:04 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:03:04 DEBUG FileWorker:32 - End write file
+2020-04-27 13:03:04 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 13:03:04 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:03:51 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:03:51 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 13:03:52 DEBUG SecurityGenerator:142 - [B@21a06946
+2020-04-27 13:03:52 DEBUG SecurityGenerator:143 - [B@77f03bb1
+2020-04-27 13:03:52 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:03:52 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:03:52 DEBUG FileWorker:32 - End write file
+2020-04-27 13:03:52 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:03:52 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:03:52 DEBUG FileWorker:32 - End write file
+2020-04-27 13:03:52 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 13:03:52 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:05:06 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:05:06 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 13:05:06 DEBUG SecurityGenerator:142 - [B@21a06946
+2020-04-27 13:05:06 DEBUG SecurityGenerator:143 - [B@77f03bb1
+2020-04-27 13:05:06 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:05:06 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:05:06 DEBUG FileWorker:32 - End write file
+2020-04-27 13:05:06 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:05:06 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:05:06 DEBUG FileWorker:32 - End write file
+2020-04-27 13:05:06 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 13:05:06 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:05:38 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:05:38 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 13:05:38 DEBUG SecurityGenerator:142 - [B@21a06946
+2020-04-27 13:05:38 DEBUG SecurityGenerator:143 - [B@77f03bb1
+2020-04-27 13:05:38 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:05:38 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:05:38 DEBUG FileWorker:32 - End write file
+2020-04-27 13:05:38 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:05:38 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:05:38 DEBUG FileWorker:32 - End write file
+2020-04-27 13:05:38 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 13:05:38 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:06:27 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 13:06:27 DEBUG SecurityGenerator:46 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-27 13:06:27 DEBUG SecurityGenerator:47 - private key name:testPrivateKey
+2020-04-27 13:06:27 DEBUG SecurityGenerator:58 - Sign complete
+2020-04-27 13:06:27 DEBUG ButtonColumn:72 - Sign result :Me7rAQrOvCsPQFCF5EHir7rHyVQrmUvjqm6Cvhx+MlbNWdJ7gh50kY8zRSg+NFXIzOdK+zZbsUqh2HSMvE6lJoT0kuVQKS6tHK/9gpr5AueUa3gyZOqd6234/4pc9Qifc5vPceI6cbUI60CGO4PO7X8KAzGsu+JLL25nDxtoLFiCCPCTSl2udLTjfFikccHrg1yb6+qAhmeRb2DxEOXrkZI7PFgerzW4OU/W1rPysQBjkd4OkkkwSTw6h/Ur8DBoq2iJnqJVjFfUHZ1vVx9DfzkI2MwgF6VWrlySqAKb7/LXWHrOkTs8IcNzH+w+rrcYE2Ff3YtHoqHJ067KHejClw==
+2020-04-27 13:09:23 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:09:23 DEBUG SecurityGenerator:135 - Begin generate Key Pair
+2020-04-27 13:09:24 DEBUG SecurityGenerator:142 - [B@21a06946
+2020-04-27 13:09:24 DEBUG SecurityGenerator:143 - [B@77f03bb1
+2020-04-27 13:09:24 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:09:24 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:09:24 DEBUG FileWorker:32 - End write file
+2020-04-27 13:09:24 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:09:24 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:09:24 DEBUG FileWorker:32 - End write file
+2020-04-27 13:09:24 DEBUG SecurityGenerator:146 - Genereted key Pair Done
+2020-04-27 13:09:24 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:09:46 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:09:46 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 13:09:46 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 13:09:46 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 13:09:46 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 13:09:46 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 13:09:46 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 13:09:46 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 13:09:46 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 13:09:47 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 13:09:47 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:09:48 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 13:09:48 DEBUG SecurityGenerator:46 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-27 13:09:48 DEBUG SecurityGenerator:47 - private key name:testPrivateKey
+2020-04-27 13:09:48 DEBUG SecurityGenerator:58 - Sign complete
+2020-04-27 13:09:48 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:20:54 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:20:54 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 13:20:54 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 13:20:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 13:20:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 13:20:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 13:20:54 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 13:20:54 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 13:20:54 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 13:20:54 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 13:20:54 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:20:57 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 13:20:57 DEBUG SecurityGenerator:47 - Signing file: text.txt
+2020-04-27 13:20:57 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:20:57 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:20:57 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:22:19 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:22:19 DEBUG SecurityGenerator:122 - Begin generate Key Pair
+2020-04-27 13:22:19 DEBUG SecurityGenerator:129 - Private Key Format: PKCS#8
+2020-04-27 13:22:19 DEBUG SecurityGenerator:130 - Public Key Format: X.509
+2020-04-27 13:22:19 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:22:19 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:22:19 DEBUG FileWorker:32 - End write file
+2020-04-27 13:22:19 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:22:19 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:22:19 DEBUG FileWorker:32 - End write file
+2020-04-27 13:22:19 DEBUG SecurityGenerator:133 - Genereted key Pair Done
+2020-04-27 13:22:19 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:22:52 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:22:52 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 13:22:52 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 13:22:52 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 13:22:52 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 13:22:52 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 13:22:52 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 13:22:52 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 13:22:52 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 13:22:52 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 13:22:52 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:22:53 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 13:22:53 DEBUG SecurityGenerator:47 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-27 13:22:53 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:22:54 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:22:54 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:25:38 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:25:38 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 13:25:38 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 13:25:38 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 13:25:38 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 13:25:38 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 13:25:38 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 13:25:38 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 13:25:38 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 13:25:44 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 13:25:44 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:25:45 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 13:25:45 DEBUG SecurityGenerator:47 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-27 13:25:45 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:26:10 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:26:10 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:29:24 DEBUG SignProcessor:24 - ======= START Sign processor main method =========
+2020-04-27 13:29:25 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 13:29:25 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 13:29:25 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 13:29:25 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 13:29:25 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 13:29:25 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 13:29:25 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 13:29:25 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 13:29:29 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 13:29:29 DEBUG SignProcessor:52 - ======== END Sign processor main method =========
+2020-04-27 13:29:31 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 13:29:31 DEBUG SecurityGenerator:47 - Signing file: text.txt
+2020-04-27 13:29:31 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:31:18 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:31:18 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:32:21 DEBUG SignProcessor:26 - ======= START Sign processor main method =========
+2020-04-27 13:32:21 DEBUG SignProcessor:61 - ======== END Sign processor main method =========
+2020-04-27 13:35:30 DEBUG SignProcessor:26 - ======= START Sign processor main method =========
+2020-04-27 13:35:30 DEBUG SignProcessor:61 - ======== END Sign processor main method =========
+2020-04-27 13:35:33 DEBUG SignProcessor:26 - ======= START Sign processor main method =========
+2020-04-27 13:35:35 DEBUG SignProcessor:61 - ======== END Sign processor main method =========
+2020-04-27 13:36:04 DEBUG SignProcessor:27 - ======= START Sign processor main method =========
+2020-04-27 13:36:04 DEBUG SignProcessor:62 - ======== END Sign processor main method =========
+2020-04-27 13:43:07 DEBUG SignProcessor:27 - ======= START Sign processor main method =========
+2020-04-27 13:43:07 DEBUG SecurityGenerator:123 - Begin generate Key Pair
+2020-04-27 13:43:07 DEBUG SecurityGenerator:130 - Private Key Format: PKCS#8
+2020-04-27 13:43:07 DEBUG SecurityGenerator:131 - Public Key Format: X.509
+2020-04-27 13:43:07 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:43:07 DEBUG FileWorker:28 - successful writed file :testPublicKey
+2020-04-27 13:43:07 DEBUG FileWorker:32 - End write file
+2020-04-27 13:43:07 DEBUG FileWorker:21 - Begin write file
+2020-04-27 13:43:07 DEBUG FileWorker:28 - successful writed file :testPrivateKey
+2020-04-27 13:43:07 DEBUG FileWorker:32 - End write file
+2020-04-27 13:43:07 DEBUG SecurityGenerator:134 - Genereted key Pair Done
+2020-04-27 13:43:07 DEBUG SignProcessor:62 - ======== END Sign processor main method =========
+2020-04-27 13:43:54 DEBUG SignProcessor:27 - ======= START Sign processor main method =========
+2020-04-27 13:43:54 DEBUG SignProcessor:62 - ======== END Sign processor main method =========
+2020-04-27 13:47:16 DEBUG SignProcessor:27 - ======= START Sign processor main method =========
+2020-04-27 13:47:16 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 13:47:16 DEBUG FileWorker:39 - File Name: test_excel.ods
+2020-04-27 13:47:16 DEBUG FileWorker:39 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 13:47:16 DEBUG FileWorker:39 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 13:47:16 DEBUG FileWorker:39 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 13:47:16 DEBUG FileWorker:39 - File Name: text.txt
+2020-04-27 13:47:16 DEBUG FileWorker:39 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 13:47:16 DEBUG FileWorker:39 - File Name: info.txt
+2020-04-27 13:47:16 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 13:47:16 DEBUG SignProcessor:54 - ======== END Sign processor main method =========
+2020-04-27 13:47:17 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 13:47:17 DEBUG SecurityGenerator:48 - Signing file: TestFileForDownload (another copy).txt
+2020-04-27 13:47:17 DEBUG SecurityGenerator:49 - private key name:testPrivateKey
+2020-04-27 13:47:18 DEBUG SecurityGenerator:60 - Sign complete
+2020-04-27 13:47:18 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:47:22 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 13:47:22 DEBUG SecurityGenerator:48 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-27 13:47:22 DEBUG SecurityGenerator:49 - private key name:testPrivateKey
+2020-04-27 13:47:22 DEBUG SecurityGenerator:60 - Sign complete
+2020-04-27 13:47:22 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 13:48:45 DEBUG ButtonColumn:71 - TestFileForDownload (3rd copy).txt : 1
+2020-04-27 13:48:45 DEBUG SecurityGenerator:47 - Signing file: TestFileForDownload (3rd copy).txt
+2020-04-27 13:48:45 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:48:46 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:48:46 DEBUG ButtonColumn:72 - Sign result :ZY4SD6v6rwap8WVuooxRbO6Aj9IdUt1hy69RsQSchC9VfxQyw+VDRmsjWguCTTlnssnbBoiTeIVqn3ltKE+pCoSkrOOml1WarIQOYQSXN3OwycZ2fplkRnNriXqC52GEA4o56ZlbLvE4r8m0TUcdsabdp5VAsm7ii1BONAey6aF9eU7FyNx6HkFVworLk5yNO7FqCi0ZD/YoC4eU/N0cNEIh9y16O2kcKMuDGp/kCk6gY918qu0D4KXIZOw0qcaz1Qed4g7avno4e8Wd5JFekAU7u1R8Ew0P7WWQKte8bUuiUnchBMeDwr2/w1LraU5l348yXi4J2H1iTQfJGOSiTA==
+2020-04-27 13:48:51 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 13:48:51 DEBUG SecurityGenerator:47 - Signing file: text.txt
+2020-04-27 13:48:51 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:48:51 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:48:51 DEBUG ButtonColumn:72 - Sign result :ZY4SD6v6rwap8WVuooxRbO6Aj9IdUt1hy69RsQSchC9VfxQyw+VDRmsjWguCTTlnssnbBoiTeIVqn3ltKE+pCoSkrOOml1WarIQOYQSXN3OwycZ2fplkRnNriXqC52GEA4o56ZlbLvE4r8m0TUcdsabdp5VAsm7ii1BONAey6aF9eU7FyNx6HkFVworLk5yNO7FqCi0ZD/YoC4eU/N0cNEIh9y16O2kcKMuDGp/kCk6gY918qu0D4KXIZOw0qcaz1Qed4g7avno4e8Wd5JFekAU7u1R8Ew0P7WWQKte8bUuiUnchBMeDwr2/w1LraU5l348yXi4J2H1iTQfJGOSiTA==
+2020-04-27 13:49:16 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 13:49:16 DEBUG SecurityGenerator:47 - Signing file: test_excel.ods
+2020-04-27 13:49:16 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:16 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:16 DEBUG ButtonColumn:72 - Sign result :f3hhDAYOPRUTkeoxRMP7q+poZoxYWfAgsbiTscRJwekFZmKurJNcHTGMb0FyJuA08Q+PRJ6yiUNkFngUocWWGblBp8UM8CkwXfffMDA2jclqi/kHZhqi6uSKPFRKYRmhHKpkK/NZWccngghPcd+oG8WzHqK6XyK8spd1r08yQ9QzHskHL9tHWGYqDjgquQi1V5jiSdhNsf217x6OcquZJUW9cLhqpS/GP6HO+mjHEU3DRZ5sJ67Lb73OYXTEmD9FRZdHNIWqaxmXruAUGjfWz1U8+DQbYLg+PMtenV+9AJMRuFbaTl3r2DD+SDnRvD0bNR5/azhpONF6z5aislDiCg==
+2020-04-27 13:49:22 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 13:49:22 DEBUG SecurityGenerator:47 - Signing file: test_excel.ods
+2020-04-27 13:49:22 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:22 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:22 DEBUG ButtonColumn:72 - Sign result :f3hhDAYOPRUTkeoxRMP7q+poZoxYWfAgsbiTscRJwekFZmKurJNcHTGMb0FyJuA08Q+PRJ6yiUNkFngUocWWGblBp8UM8CkwXfffMDA2jclqi/kHZhqi6uSKPFRKYRmhHKpkK/NZWccngghPcd+oG8WzHqK6XyK8spd1r08yQ9QzHskHL9tHWGYqDjgquQi1V5jiSdhNsf217x6OcquZJUW9cLhqpS/GP6HO+mjHEU3DRZ5sJ67Lb73OYXTEmD9FRZdHNIWqaxmXruAUGjfWz1U8+DQbYLg+PMtenV+9AJMRuFbaTl3r2DD+SDnRvD0bNR5/azhpONF6z5aislDiCg==
+2020-04-27 13:49:24 DEBUG ButtonColumn:71 - TestFileForDownload (3rd copy).txt : 1
+2020-04-27 13:49:24 DEBUG SecurityGenerator:47 - Signing file: TestFileForDownload (3rd copy).txt
+2020-04-27 13:49:24 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:24 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:24 DEBUG ButtonColumn:72 - Sign result :ZY4SD6v6rwap8WVuooxRbO6Aj9IdUt1hy69RsQSchC9VfxQyw+VDRmsjWguCTTlnssnbBoiTeIVqn3ltKE+pCoSkrOOml1WarIQOYQSXN3OwycZ2fplkRnNriXqC52GEA4o56ZlbLvE4r8m0TUcdsabdp5VAsm7ii1BONAey6aF9eU7FyNx6HkFVworLk5yNO7FqCi0ZD/YoC4eU/N0cNEIh9y16O2kcKMuDGp/kCk6gY918qu0D4KXIZOw0qcaz1Qed4g7avno4e8Wd5JFekAU7u1R8Ew0P7WWQKte8bUuiUnchBMeDwr2/w1LraU5l348yXi4J2H1iTQfJGOSiTA==
+2020-04-27 13:49:28 DEBUG ButtonColumn:71 - TestFileForDownload (another copy).txt : 2
+2020-04-27 13:49:28 DEBUG SecurityGenerator:47 - Signing file: TestFileForDownload (another copy).txt
+2020-04-27 13:49:28 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:28 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:28 DEBUG ButtonColumn:72 - Sign result :ZY4SD6v6rwap8WVuooxRbO6Aj9IdUt1hy69RsQSchC9VfxQyw+VDRmsjWguCTTlnssnbBoiTeIVqn3ltKE+pCoSkrOOml1WarIQOYQSXN3OwycZ2fplkRnNriXqC52GEA4o56ZlbLvE4r8m0TUcdsabdp5VAsm7ii1BONAey6aF9eU7FyNx6HkFVworLk5yNO7FqCi0ZD/YoC4eU/N0cNEIh9y16O2kcKMuDGp/kCk6gY918qu0D4KXIZOw0qcaz1Qed4g7avno4e8Wd5JFekAU7u1R8Ew0P7WWQKte8bUuiUnchBMeDwr2/w1LraU5l348yXi4J2H1iTQfJGOSiTA==
+2020-04-27 13:49:33 DEBUG ButtonColumn:71 - TestFileForDownload (4th copy).txt : 3
+2020-04-27 13:49:33 DEBUG SecurityGenerator:47 - Signing file: TestFileForDownload (4th copy).txt
+2020-04-27 13:49:33 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:33 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:33 DEBUG ButtonColumn:72 - Sign result :ZY4SD6v6rwap8WVuooxRbO6Aj9IdUt1hy69RsQSchC9VfxQyw+VDRmsjWguCTTlnssnbBoiTeIVqn3ltKE+pCoSkrOOml1WarIQOYQSXN3OwycZ2fplkRnNriXqC52GEA4o56ZlbLvE4r8m0TUcdsabdp5VAsm7ii1BONAey6aF9eU7FyNx6HkFVworLk5yNO7FqCi0ZD/YoC4eU/N0cNEIh9y16O2kcKMuDGp/kCk6gY918qu0D4KXIZOw0qcaz1Qed4g7avno4e8Wd5JFekAU7u1R8Ew0P7WWQKte8bUuiUnchBMeDwr2/w1LraU5l348yXi4J2H1iTQfJGOSiTA==
+2020-04-27 13:49:35 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 13:49:35 DEBUG SecurityGenerator:47 - Signing file: text.txt
+2020-04-27 13:49:35 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:35 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:35 DEBUG ButtonColumn:72 - Sign result :ZY4SD6v6rwap8WVuooxRbO6Aj9IdUt1hy69RsQSchC9VfxQyw+VDRmsjWguCTTlnssnbBoiTeIVqn3ltKE+pCoSkrOOml1WarIQOYQSXN3OwycZ2fplkRnNriXqC52GEA4o56ZlbLvE4r8m0TUcdsabdp5VAsm7ii1BONAey6aF9eU7FyNx6HkFVworLk5yNO7FqCi0ZD/YoC4eU/N0cNEIh9y16O2kcKMuDGp/kCk6gY918qu0D4KXIZOw0qcaz1Qed4g7avno4e8Wd5JFekAU7u1R8Ew0P7WWQKte8bUuiUnchBMeDwr2/w1LraU5l348yXi4J2H1iTQfJGOSiTA==
+2020-04-27 13:49:37 DEBUG ButtonColumn:71 - TestFileForDownload (5th copy).txt : 5
+2020-04-27 13:49:37 DEBUG SecurityGenerator:47 - Signing file: TestFileForDownload (5th copy).txt
+2020-04-27 13:49:37 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:37 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:37 DEBUG ButtonColumn:72 - Sign result :ZY4SD6v6rwap8WVuooxRbO6Aj9IdUt1hy69RsQSchC9VfxQyw+VDRmsjWguCTTlnssnbBoiTeIVqn3ltKE+pCoSkrOOml1WarIQOYQSXN3OwycZ2fplkRnNriXqC52GEA4o56ZlbLvE4r8m0TUcdsabdp5VAsm7ii1BONAey6aF9eU7FyNx6HkFVworLk5yNO7FqCi0ZD/YoC4eU/N0cNEIh9y16O2kcKMuDGp/kCk6gY918qu0D4KXIZOw0qcaz1Qed4g7avno4e8Wd5JFekAU7u1R8Ew0P7WWQKte8bUuiUnchBMeDwr2/w1LraU5l348yXi4J2H1iTQfJGOSiTA==
+2020-04-27 13:49:39 DEBUG ButtonColumn:71 - info.txt : 6
+2020-04-27 13:49:39 DEBUG SecurityGenerator:47 - Signing file: info.txt
+2020-04-27 13:49:39 DEBUG SecurityGenerator:48 - private key name:testPrivateKey
+2020-04-27 13:49:39 DEBUG SecurityGenerator:59 - Sign complete
+2020-04-27 13:49:39 DEBUG ButtonColumn:72 - Sign result :MLto4EjxoiHxWgQN4K+lyA5MHGhv2GRHoCI1N+W7Nr2qFdupGsm9AARlnGGys7BZcgIkfhiDMBFP6dIA69loV/VEPWi0gEXEf+1DeFR/ylDd5i6q85b6U99pTE7M6uCdw+ATBHH+kNiGojzDscssqwiKAh1FeCD2VVvdhxs338NdkcM0YCvNrGZyxv1UdoDK7cyMLk9YIv8UeiHlEb2TO3IBJmr4SFCKv6otlklfOdOW606tv/LUXSdfeb4RoH7Tj9Om2cmRr0qx32alJA6sJ448E5pyU+54rgDHUj0QI3+7T2ekqWeqvdxduvCEzyRKZWuJ11QeYopeqiG2+cqV8w==
+2020-04-27 14:41:13 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 14:41:13 DEBUG FileWorker:24 - File key value: (dev=801,ino=53216964)
+2020-04-27 14:41:13 DEBUG FileWorker:28 - Start adding to File attribute: securiy message
+2020-04-27 14:42:08 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 14:42:32 DEBUG FileWorker:24 - File key value: (dev=801,ino=53216964)
+2020-04-27 14:42:32 DEBUG FileWorker:28 - Start adding to File attribute: securiy message
+2020-04-27 14:42:48 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 14:42:48 DEBUG FileWorker:24 - File key value: (dev=801,ino=53216964)
+2020-04-27 14:42:48 DEBUG FileWorker:28 - Start adding to File attribute: securiy message
+2020-04-27 14:44:04 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 14:44:04 DEBUG FileWorker:24 - File key value: (dev=801,ino=53216964)
+2020-04-27 14:44:04 DEBUG FileWorker:28 - Start adding to File attribute: securiy message
+2020-04-27 15:16:17 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 15:16:17 DEBUG FileWorker:23 - Owner attribute value: some
+2020-04-27 15:16:17 DEBUG FileWorker:27 - File key value: (dev=801,ino=53216964)
+2020-04-27 15:16:17 DEBUG FileWorker:37 - Attribute added successful
+2020-04-27 15:16:17 DEBUG FileWorker:23 - Owner attribute value: some
+2020-04-27 15:16:17 DEBUG FileWorker:27 - File key value: (dev=801,ino=53216964)
+2020-04-27 15:16:17 DEBUG SignProcessor:60 - ======== END Sign processor main method =========
+2020-04-27 15:33:19 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 15:33:19 DEBUG FileWorker:24 - Owner attribute value: some
+2020-04-27 15:33:19 DEBUG FileWorker:28 - File key value: null
+2020-04-27 15:33:19 DEBUG FileWorker:32 - Start adding to File attribute: securiy message
+2020-04-27 15:33:19 DEBUG FileWorker:41 - Attribute added successful
+2020-04-27 15:33:19 DEBUG FileWorker:24 - Owner attribute value: some
+2020-04-27 15:33:19 DEBUG FileWorker:28 - File key value: null
+2020-04-27 15:33:19 DEBUG SignProcessor:60 - ======== END Sign processor main method =========
+2020-04-27 15:39:42 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 15:39:42 DEBUG FileWorker:26 - Owner attribute value: some
+2020-04-27 15:39:42 DEBUG FileWorker:30 - File key value: null
+2020-04-27 15:39:42 DEBUG FileWorker:34 - Start adding to File attribute: securiy message
+2020-04-27 15:39:42 DEBUG FileWorker:43 - Attribute added successful
+2020-04-27 15:39:42 DEBUG FileWorker:26 - Owner attribute value: some
+2020-04-27 15:39:42 DEBUG FileWorker:30 - File key value: null
+2020-04-27 15:39:42 DEBUG SignProcessor:60 - ======== END Sign processor main method =========
+2020-04-27 16:03:56 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 16:03:56 DEBUG FileWorker:30 - Fil sign value: null
+2020-04-27 16:03:56 DEBUG FileWorker:34 - Start adding to File attribute: securiy message
+2020-04-27 16:03:56 DEBUG FileWorker:47 - Attribute added successful
+2020-04-27 16:03:56 DEBUG FileWorker:30 - Fil sign value: securiy message
+2020-04-27 16:03:56 DEBUG SignProcessor:60 - ======== END Sign processor main method =========
+2020-04-27 16:20:02 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 16:20:02 DEBUG FileWorker:31 - Fil sign value: securiy message
+2020-04-27 16:20:02 DEBUG FileWorker:35 - Start adding to File attribute: securiy message
+2020-04-27 16:20:02 DEBUG FileWorker:48 - Attribute added successful
+2020-04-27 16:20:02 DEBUG FileWorker:31 - Fil sign value: securiy message
+2020-04-27 16:20:02 DEBUG SignProcessor:60 - ======== END Sign processor main method =========

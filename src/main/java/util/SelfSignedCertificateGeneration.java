@@ -9,7 +9,7 @@ public class SelfSignedCertificateGeneration {
 
 	public static void genCerteficate() {
 		try {
-			CertAndKeyGen keyGen = new CertAndKeyGen("RSA", "SHA1WithRSA", null);
+			CertAndKeyGen keyGen = new CertAndKeyGen("RSA", Const.SHA256_with_RSA, null);
 			keyGen.generate(1024);
 			// Generate self signed certificate
 			X509Certificate[] chain = new X509Certificate[1];
