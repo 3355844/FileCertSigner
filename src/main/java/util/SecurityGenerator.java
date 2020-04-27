@@ -42,12 +42,14 @@ public class SecurityGenerator {
 		logger.debug("Signing file: " + file.getName());
 		logger.debug("private key name:" + Const.DEF_PRIV_KEY);
 		String result = "";
+		String signPath = Const.CERT_DIR + "_sign_" + fileName;
 		try {
 			Signature sign = Signature.getInstance(Const.SHA256_with_RSA);
 			PrivateKey privateKey = getPrivateKey(Const.CERT_DIR + Const.DEF_PRIV_KEY);
 			sign.initSign(privateKey);
 			sign.update(Files.readAllBytes(file.toPath()));
 			sign.sign();
+			FileWorker.writeToFile(signPath, sign.sign());
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -57,6 +59,7 @@ public class SecurityGenerator {
 
 	public static String verifySign(String fileName) {
 		String result = null;
+		File fileSign = FileWorker.getFileSign(fileName);
 		File file = FileWorker.getFile(fileName);
 		logger.debug("Verify file: " + file.getName());
 		logger.debug("Public Key name: " + Const.DEF_PUB_KEY);
@@ -65,7 +68,7 @@ public class SecurityGenerator {
 			PublicKey publicKey = getPublicKey(Const.CERT_DIR + Const.DEF_PUB_KEY);
 			sign.initVerify(publicKey);
 			sign.update(Files.readAllBytes(file.toPath()));
-			result = sign.verify(Files.readAllBytes(file.toPath())) ? "OK" : "ERR";
+			result = sign.verify(Files.readAllBytes(fileSign.toPath())) ? "OK" : "ERR";
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -77,7 +80,7 @@ public class SecurityGenerator {
 		File f = new File(fileName);
 		X509EncodedKeySpec keySpecX509 = new X509EncodedKeySpec(Files.readAllBytes(f.toPath()));
 		KeyFactory kf = KeyFactory.getInstance("RSA");
-		RSAPublicKey pubKey = (RSAPublicKey) kf.generatePublic(keySpecX509);
+		PublicKey pubKey = kf.generatePublic(keySpecX509);
 		return pubKey;
 	}
 

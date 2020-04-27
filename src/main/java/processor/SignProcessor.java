@@ -5,6 +5,7 @@ import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;
 import java.security.PrivateKey;
+import java.security.PublicKey;
 import java.security.interfaces.RSAPrivateKey;
 
 import org.apache.log4j.Logger;
@@ -27,10 +28,21 @@ public class SignProcessor {
 	public static void main(String[] args) {
 		String fileName = "info.txt";
 		logger.debug("======= START Sign processor main method =========");
-		FileWorker.showSignAttribute(Const.ROOT_FILE_DIR + fileName);
-		FileWorker.setSignAttrToFile(Const.ROOT_FILE_DIR + fileName, "securiy message");
-		FileWorker.showSignAttribute(Const.ROOT_FILE_DIR + fileName);
+		SecurityGenerator.signFile(fileName);
+		SecurityGenerator.verifySign(fileName);
+//		try {
+//			PublicKey publicKey = SecurityGenerator.getPublicKey(Const.CERT_DIR + Const.DEF_PUB_KEY);
+//			logger.debug(publicKey);
+//		} catch (Exception e) {
+//			// TODO Auto-generated catch block
+//			e.printStackTrace();
+//		}
 
+//		FileWorker.showSignAttribute(Const.ROOT_FILE_DIR + fileName);
+//		FileWorker.setSignAttrToFile(Const.ROOT_FILE_DIR + fileName, "securiy message");
+//		FileWorker.showSignAttribute(Const.ROOT_FILE_DIR + fileName);
+
+		
 		
 //		FileInterface view = new FileInterface();
 //		view.setVisible(true);

@@ -2791,3 +2791,179 @@
 2020-04-27 16:20:02 DEBUG FileWorker:48 - Attribute added successful
 2020-04-27 16:20:02 DEBUG FileWorker:31 - Fil sign value: securiy message
 2020-04-27 16:20:02 DEBUG SignProcessor:60 - ======== END Sign processor main method =========
+2020-04-27 16:28:15 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 16:28:16 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 16:28:16 DEBUG FileWorker:75 - File Name: test_excel.ods
+2020-04-27 16:28:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 16:28:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 16:28:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 16:28:16 DEBUG FileWorker:75 - File Name: text.txt
+2020-04-27 16:28:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 16:28:16 DEBUG FileWorker:75 - File Name: info.txt
+2020-04-27 16:28:16 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 16:28:47 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 16:28:47 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 16:28:47 DEBUG FileWorker:75 - File Name: test_excel.ods
+2020-04-27 16:28:47 DEBUG FileWorker:75 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 16:28:47 DEBUG FileWorker:75 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 16:28:47 DEBUG FileWorker:75 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 16:28:47 DEBUG FileWorker:75 - File Name: text.txt
+2020-04-27 16:28:47 DEBUG FileWorker:75 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 16:28:47 DEBUG FileWorker:75 - File Name: info.txt
+2020-04-27 16:28:47 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 16:28:47 DEBUG SignProcessor:61 - ======== END Sign processor main method =========
+2020-04-27 16:28:48 DEBUG ButtonColumn:71 - test_excel.ods : 0
+2020-04-27 16:28:48 DEBUG SecurityGenerator:42 - Signing file: test_excel.ods
+2020-04-27 16:28:48 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:28:48 DEBUG SecurityGenerator:54 - Sign complete
+2020-04-27 16:28:48 DEBUG ButtonColumn:72 - Sign result :
+2020-04-27 16:29:16 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 16:29:16 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 16:29:16 DEBUG FileWorker:75 - File Name: test_excel.ods
+2020-04-27 16:29:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 16:29:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 16:29:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 16:29:16 DEBUG FileWorker:75 - File Name: text.txt
+2020-04-27 16:29:16 DEBUG FileWorker:75 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 16:29:16 DEBUG FileWorker:75 - File Name: info.txt
+2020-04-27 16:29:16 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 16:29:16 DEBUG SignProcessor:61 - ======== END Sign processor main method =========
+2020-04-27 16:29:17 DEBUG ButtonColumn:71 - text.txt : 4
+2020-04-27 16:29:17 DEBUG SecurityGenerator:61 - Verify file: text.txt
+2020-04-27 16:29:17 DEBUG SecurityGenerator:62 - Public Key name: testPublicKey
+2020-04-27 16:29:17 DEBUG SecurityGenerator:72 - Verify complete :null
+2020-04-27 16:29:17 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 16:33:34 DEBUG SignProcessor:29 - ======= START Sign processor main method =========
+2020-04-27 16:33:34 DEBUG FileInterface:127 - get files table from dir
+2020-04-27 16:33:34 DEBUG FileWorker:75 - File Name: test_excel.ods
+2020-04-27 16:33:34 DEBUG FileWorker:75 - File Name: TestFileForDownload (3rd copy).txt
+2020-04-27 16:33:34 DEBUG FileWorker:75 - File Name: TestFileForDownload (another copy).txt
+2020-04-27 16:33:34 DEBUG FileWorker:75 - File Name: TestFileForDownload (4th copy).txt
+2020-04-27 16:33:34 DEBUG FileWorker:75 - File Name: text.txt
+2020-04-27 16:33:34 DEBUG FileWorker:75 - File Name: TestFileForDownload (5th copy).txt
+2020-04-27 16:33:34 DEBUG FileWorker:75 - File Name: info.txt
+2020-04-27 16:33:34 DEBUG FileInterface:132 - get files table from dir
+2020-04-27 16:33:34 DEBUG SignProcessor:61 - ======== END Sign processor main method =========
+2020-04-27 16:33:36 DEBUG ButtonColumn:71 - TestFileForDownload (3rd copy).txt : 1
+2020-04-27 16:33:36 DEBUG SecurityGenerator:61 - Verify file: TestFileForDownload (3rd copy).txt
+2020-04-27 16:33:36 DEBUG SecurityGenerator:62 - Public Key name: testPublicKey
+2020-04-27 16:33:36 DEBUG SecurityGenerator:72 - Verify complete :null
+2020-04-27 16:33:36 DEBUG ButtonColumn:73 - Verify result: null
+2020-04-27 16:37:25 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:37:25 DEBUG SignProcessor:69 - ======== END Sign processor main method =========
+2020-04-27 16:37:58 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:37:58 DEBUG SignProcessor:33 - RSA
+2020-04-27 16:37:58 DEBUG SignProcessor:70 - ======== END Sign processor main method =========
+2020-04-27 16:38:12 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:38:12 DEBUG SignProcessor:33 - [B@326de728
+2020-04-27 16:38:12 DEBUG SignProcessor:70 - ======== END Sign processor main method =========
+2020-04-27 16:38:44 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:38:44 DEBUG SignProcessor:33 - Sun RSA public key, 2048 bits
+  params: null
+  modulus: 20986759764741349604529851874233668935089913081797138717676665419438540662852795502640049231674227510900622096454052599106220585932419599557866730844105936328815271267144067783416871854463169054563939481422288046664197814796122663817316919737914932192089272677284728848036854735550057526889137828274982224783836570593485681971710520526850088144987351604498392820365640693384189505489714712891986248141910542701162497802631225576869221653398311626601605525591637934574501062506689378044022023464327626785761500667332049693462859559345612885164233867093369991564612886422822922237413285035963714644249867730778588408559
+  public exponent: 65537
+2020-04-27 16:38:44 DEBUG SignProcessor:70 - ======== END Sign processor main method =========
+2020-04-27 16:39:30 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:39:30 DEBUG SecurityGenerator:61 - Verify file: info.txt
+2020-04-27 16:39:30 DEBUG SecurityGenerator:62 - Public Key name: testPublicKey
+2020-04-27 16:39:30 DEBUG SecurityGenerator:72 - Verify complete :null
+2020-04-27 16:39:30 DEBUG SignProcessor:71 - ======== END Sign processor main method =========
+2020-04-27 16:49:00 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:49:00 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:49:00 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:49:00 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:49:00 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:49:00 DEBUG FileWorker:76 - End write file
+2020-04-27 16:49:00 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:49:00 DEBUG SecurityGenerator:63 - Verify file: _sign_info.txt
+2020-04-27 16:49:00 DEBUG SecurityGenerator:64 - Public Key name: testPublicKey
+2020-04-27 16:49:00 DEBUG SecurityGenerator:74 - Verify complete :ERR
+2020-04-27 16:49:00 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:50:01 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:50:01 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:50:01 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:50:01 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:50:01 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:50:01 DEBUG FileWorker:76 - End write file
+2020-04-27 16:50:01 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:50:01 DEBUG SecurityGenerator:63 - Verify file: _sign_info.txt
+2020-04-27 16:50:01 DEBUG SecurityGenerator:64 - Public Key name: testPublicKey
+2020-04-27 16:50:01 DEBUG SecurityGenerator:74 - Verify complete :ERR
+2020-04-27 16:50:01 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:52:05 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:52:05 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:52:05 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:52:05 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:52:05 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:52:05 DEBUG FileWorker:76 - End write file
+2020-04-27 16:52:05 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:52:05 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 16:52:05 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 16:52:05 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 16:52:05 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:52:23 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:52:23 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:52:23 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:52:23 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:52:23 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:52:23 DEBUG FileWorker:76 - End write file
+2020-04-27 16:52:23 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:52:23 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 16:52:23 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 16:52:23 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 16:52:23 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:52:42 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:52:42 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:52:42 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:52:42 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:52:42 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:52:42 DEBUG FileWorker:76 - End write file
+2020-04-27 16:52:42 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:52:42 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 16:52:42 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 16:52:42 DEBUG SecurityGenerator:75 - Verify complete :ERR
+2020-04-27 16:52:42 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:53:05 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:53:05 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:53:05 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:53:05 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:53:05 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:53:05 DEBUG FileWorker:76 - End write file
+2020-04-27 16:53:05 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:53:05 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 16:53:05 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 16:53:05 DEBUG SecurityGenerator:75 - Verify complete :ERR
+2020-04-27 16:53:05 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:53:40 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:53:40 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:53:40 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:53:40 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:53:40 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:53:40 DEBUG FileWorker:76 - End write file
+2020-04-27 16:53:40 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:53:40 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 16:53:40 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 16:53:40 DEBUG SecurityGenerator:75 - Verify complete :ERR
+2020-04-27 16:53:40 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:55:06 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:55:06 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:55:06 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:55:06 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:55:06 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:55:06 DEBUG FileWorker:76 - End write file
+2020-04-27 16:55:06 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:55:06 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 16:55:06 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 16:55:06 DEBUG SecurityGenerator:75 - Verify complete :null
+2020-04-27 16:55:06 DEBUG SignProcessor:72 - ======== END Sign processor main method =========
+2020-04-27 16:55:19 DEBUG SignProcessor:30 - ======= START Sign processor main method =========
+2020-04-27 16:55:19 DEBUG SecurityGenerator:42 - Signing file: info.txt
+2020-04-27 16:55:19 DEBUG SecurityGenerator:43 - private key name:testPrivateKey
+2020-04-27 16:55:19 DEBUG FileWorker:65 - Begin write file
+2020-04-27 16:55:19 DEBUG FileWorker:72 - successful writed file :_sign_info.txt
+2020-04-27 16:55:19 DEBUG FileWorker:76 - End write file
+2020-04-27 16:55:19 DEBUG SecurityGenerator:56 - Sign complete
+2020-04-27 16:55:19 DEBUG SecurityGenerator:64 - Verify file: info.txt
+2020-04-27 16:55:19 DEBUG SecurityGenerator:65 - Public Key name: testPublicKey
+2020-04-27 16:55:19 DEBUG SecurityGenerator:75 - Verify complete :ERR
+2020-04-27 16:55:19 DEBUG SignProcessor:72 - ======== END Sign processor main method =========

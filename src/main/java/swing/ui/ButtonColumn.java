@@ -69,7 +69,7 @@ public class ButtonColumn extends AbstractCellEditor implements TableCellRendere
 	public void actionPerformed(ActionEvent e) {
 		fireEditingStopped();
 		logger.debug(e.getActionCommand() + " : " + table.getSelectedRow());
-		logger.debug("Sign result :" + SecurityGenerator.signFile(e.getActionCommand()));
-//		logger.debug("Verify result: " + SecurityGenerator.verifySign(e.getActionCommand()));
+//		logger.debug("Sign result :" + SecurityGenerator.signFile(e.getActionCommand()));
+		logger.debug("Verify result: " + SecurityGenerator.verifySign(e.getActionCommand()));
 	}
 }

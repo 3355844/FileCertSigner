@@ -17,7 +17,8 @@ public class FileWorker {
 	public static void showSignAttribute(String fileName) {
 		String attrValue = null;
 		String attrName = "sign";
-		UserDefinedFileAttributeView attr = Files.getFileAttributeView(new File(fileName).toPath(),	UserDefinedFileAttributeView.class);
+		UserDefinedFileAttributeView attr = Files.getFileAttributeView(new File(fileName).toPath(),
+				UserDefinedFileAttributeView.class);
 		ByteBuffer readBuffer;
 		try {
 			readBuffer = ByteBuffer.allocate(attr.size(attrName));
@@ -34,7 +35,8 @@ public class FileWorker {
 	public static void setSignAttrToFile(String fileName, String attrVal) {
 		logger.debug("Start adding to File attribute: " + attrVal);
 		String attrName = "sign";
-		UserDefinedFileAttributeView attr = Files.getFileAttributeView(new File(fileName).toPath(),	UserDefinedFileAttributeView.class);
+		UserDefinedFileAttributeView attr = Files.getFileAttributeView(new File(fileName).toPath(),
+				UserDefinedFileAttributeView.class);
 		byte[] bytes;
 		try {
 			bytes = attrVal.getBytes("UTF-8");
@@ -50,6 +52,12 @@ public class FileWorker {
 
 	public static File getFile(String fileName) {
 		File file = new File(Const.ROOT_FILE_DIR + fileName);
+		return file;
+	}
+
+	public static File getFileSign(String fileName) {
+		String fileSign = Const.CERT_DIR + "_sign_" + fileName;
+		File file = new File(fileSign);
 		return file;
 	}
 
