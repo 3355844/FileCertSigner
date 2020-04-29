@@ -62,8 +62,9 @@ public class FileWorker {
 	}
 
 	public static void writeToFile(String path, byte[] key) {
-		logger.debug("Begin write file");
+		logger.debug("Begin write file with size"+ key.length);
 		File f = new File(path);
+		logger.debug("file bytes: " + FileWorker.getBytes(f));
 		f.getParentFile().mkdirs();
 		try (FileOutputStream fos = new FileOutputStream(f)) {
 			fos.write(key);
@@ -73,15 +74,17 @@ public class FileWorker {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		logger.debug("End write file");
+		logger.debug("End write file success");
 	}
 
 	public static String[] getFileListFromDir(String dirPath) {
+		logger.debug("begin get file list from dir: "+ dirPath);
 		File file = new File(dirPath);
 		String[] fileList = file.list();
 		for (String name : fileList) {
 			logger.debug("File Name: " + name);
 		}
+		logger.debug("end file list from directory? list size: " + file.length());
 		return fileList;
 	}
 
@@ -97,12 +100,23 @@ public class FileWorker {
 	}
 
 	public static void fileSaveProc(String saveDir, File file) {
+		logger.debug("begin save process file: "+ file.getName());
+		logger.debug("file bytes: " + FileWorker.getBytes(file));
 		String filePath = saveDir + file.getName();
+		FileWorker.writeToFile(filePath, getBytes(file));
+		logger.debug("File downloaded successful, file name:" + file.getName());
+	}
+
+	public static byte[] getBytes(File file) {
+		logger.debug("begin get bytes from file: " + file.getName());
+		byte[] res = null;
 		try {
-			FileWorker.writeToFile(filePath, Files.readAllBytes(file.toPath()));
-			logger.debug("File downloaded successful, file name:" + file.getName());
+			logger.debug("file path" + file.getPath());
+			res = Files.readAllBytes(file.toPath());
 		} catch (IOException e) {
-			logger.error("Error Write file {}", e);
+			logger.debug("Error: " + e);
 		}
+		logger.debug("end get bytes from file successful" + res);
+		return res;
 	}
 }

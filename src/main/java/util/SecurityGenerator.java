@@ -3,18 +3,21 @@ package util;
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
+import java.io.IOException;
 import java.nio.file.Files;
 import java.security.Key;
 import java.security.KeyFactory;
 import java.security.KeyPair;
 import java.security.KeyPairGenerator;
 import java.security.KeyStore;
+import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.security.PrivateKey;
 import java.security.PublicKey;
 import java.security.Signature;
 import java.security.cert.Certificate;
 import java.security.interfaces.RSAPrivateKey;
+import java.security.spec.InvalidKeySpecException;
 import java.security.spec.PKCS8EncodedKeySpec;
 import java.security.spec.X509EncodedKeySpec;
 
@@ -42,11 +45,12 @@ public class SecurityGenerator {
 		logger.debug("private key name:" + Const.DEF_PRIV_KEY);
 		String result = "";
 		String signPath = Const.CERT_DIR + "sign_" + fileName;
+		byte[] hash = hashBytes(FileWorker.getBytes(file));
 		try {
 			Signature sign = Signature.getInstance(Const.SHA256_with_RSA);
 			PrivateKey privateKey = getPrivateKey(Const.CERT_DIR + Const.DEF_PRIV_KEY);
 			sign.initSign(privateKey);
-			sign.update(Files.readAllBytes(file.toPath()));
+			sign.update(hash);
 			sign.sign();
 			FileWorker.writeToFile(signPath, sign.sign());
 		} catch (Exception e) {
@@ -60,14 +64,18 @@ public class SecurityGenerator {
 		String result = null;
 		File fileSign = FileWorker.getFileSign(fileName);
 		File file = FileWorker.getFile(fileName);
+		byte[] hash = hashBytes(FileWorker.getBytes(file));
 		logger.debug("Verify file: " + file.getName());
 		logger.debug("Public Key name: " + Const.DEF_PUB_KEY);
 		try {
 			Signature sign = Signature.getInstance(Const.SHA256_with_RSA);
 			PublicKey publicKey = getPublicKey(Const.CERT_DIR + Const.DEF_PUB_KEY);
+			PrivateKey privKey = getPrivateKey(Const.CERT_DIR+ Const.DEF_PRIV_KEY);
+			sign.initSign(privKey);
 			sign.initVerify(publicKey);
-			sign.update(Files.readAllBytes(file.toPath()));
-			result = sign.verify(Files.readAllBytes(fileSign.toPath())) ? "OK" : "ERR";
+			sign.sign();
+			sign.update(hash);
+			result = sign.verify(FileWorker.getBytes(fileSign)) ? "OK" : "ERR";
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -75,19 +83,49 @@ public class SecurityGenerator {
 		return result;
 	}
 
-	public static PublicKey getPublicKey(String fileName) throws Exception {
+	private static byte[] hashBytes(byte[] bytes) {
+		MessageDigest md = null;
+		try {
+			md = MessageDigest.getInstance("SHA-256");
+			md.update(bytes);
+		} catch (NoSuchAlgorithmException e) {
+			e.printStackTrace();
+		}
+		return md.digest();
+	}
+
+	public static PublicKey getPublicKey(String fileName) {
+		logger.debug("begin get public key: "+  fileName);
 		File f = new File(fileName);
-		X509EncodedKeySpec keySpecX509 = new X509EncodedKeySpec(Files.readAllBytes(f.toPath()));
-		KeyFactory kf = KeyFactory.getInstance("RSA");
-		PublicKey pubKey = kf.generatePublic(keySpecX509);
+		X509EncodedKeySpec keySpecX509;
+		PublicKey pubKey = null;
+		logger.debug("Public key bytes" + FileWorker.getBytes(f));
+		try {
+			keySpecX509 = new X509EncodedKeySpec(Files.readAllBytes(f.toPath()));
+			KeyFactory kf = KeyFactory.getInstance("RSA");
+			pubKey = kf.generatePublic(keySpecX509);
+		} catch (IOException | NoSuchAlgorithmException | InvalidKeySpecException e) {
+			e.printStackTrace();
+		}
+		logger.debug("Public key value" + pubKey.getEncoded());
+		logger.debug("get successful public key format: "+ pubKey.getFormat());
 		return pubKey;
 	}
 
-	public static RSAPrivateKey getPrivateKey(String fileName) throws Exception {
+	public static PrivateKey getPrivateKey(String fileName) {
+		logger.debug("begin get private key :" + fileName);
 		File f = new File(fileName);
-		PKCS8EncodedKeySpec spec = new PKCS8EncodedKeySpec(Files.readAllBytes(f.toPath()));
-		KeyFactory kf = KeyFactory.getInstance("RSA");
-		return (RSAPrivateKey) kf.generatePrivate(spec);
+		PKCS8EncodedKeySpec spec;
+		PrivateKey privKey = null;
+		try {
+			spec = new PKCS8EncodedKeySpec(Files.readAllBytes(f.toPath()));
+			KeyFactory kf = KeyFactory.getInstance("RSA");
+			privKey = kf.generatePrivate(spec);
+		} catch (IOException | NoSuchAlgorithmException | InvalidKeySpecException e) {
+			e.printStackTrace();
+		}
+		logger.debug("get successful prvate key format: " + privKey.getFormat());
+		return privKey;
 	}
 
 	public static void loadCertificate(String instName, String certName, String pass) {
